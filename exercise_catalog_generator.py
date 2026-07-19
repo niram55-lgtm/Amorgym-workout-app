@@ -8,12 +8,16 @@ from exercise_catalog_data import (
     LEGS_MAIN,
     CHEST_MAIN,
     CORE_MAIN,
+    SHOULDERS_MAIN,
+    ARMS_MAIN,
     CARDIO_WARMUP,
     CARDIO_MAIN,
     STRETCH_BACK,
     STRETCH_LEGS,
     STRETCH_CHEST,
     STRETCH_CORE,
+    STRETCH_SHOULDERS,
+    STRETCH_ARMS,
 )
 
 DIFFICULTY_ORDER = ["קל", "בינוני", "קשה"]
@@ -88,12 +92,16 @@ def build_catalog() -> list[dict]:
     catalog += _build_main_group(LEGS_MAIN, "רגליים", "מרכזי")
     catalog += _build_main_group(CHEST_MAIN, "חזה", "מרכזי")
     catalog += _build_main_group(CORE_MAIN, "ליבה", "מרכזי")
+    catalog += _build_main_group(SHOULDERS_MAIN, "כתפיים", "מרכזי")
+    catalog += _build_main_group(ARMS_MAIN, "ידיים", "מרכזי")
     catalog += _build_main_group(CARDIO_WARMUP, "אירובי", "חימום")
     catalog += _build_main_group(CARDIO_MAIN, "אירובי", "מרכזי")
     catalog += _build_stretch_group(STRETCH_BACK, "גו")
     catalog += _build_stretch_group(STRETCH_LEGS, "רגליים")
     catalog += _build_stretch_group(STRETCH_CHEST, "חזה")
     catalog += _build_stretch_group(STRETCH_CORE, "ליבה")
+    catalog += _build_stretch_group(STRETCH_SHOULDERS, "כתפיים")
+    catalog += _build_stretch_group(STRETCH_ARMS, "ידיים")
 
     names = [item["name_he"] for item in catalog]
     assert len(names) == len(set(names)), "נמצאו שמות תרגילים כפולים בקטלוג"

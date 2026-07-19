@@ -117,6 +117,42 @@ CORE_MAIN = [
     ("גשר עם כיווץ בטן עליון", "bodyweight", "קל"),
 ]
 
+SHOULDERS_MAIN = [
+    ("לחיצת כתפיים", "weighted", "בינוני"),
+    ("הרחקת כתפיים צידית (Lateral Raise)", "weighted", "קל"),
+    ("הרחקת כתפיים קדמית (Front Raise)", "weighted", "קל"),
+    ("פרפר הפוך לכתף אחורית (Reverse Fly)", "weighted", "בינוני"),
+    ("לחיצת ארנולד (Arnold Press)", "weighted", "קשה"),
+    ("משיכת גומייה לסנטר (Upright Row)", "weighted", "בינוני"),
+    ("הרחקה בגומייה בעמידה", "weighted", "קל"),
+    ("שכיבות סמיכה בשיפוע הפוך לכתפיים (Pike Push-up)", "bodyweight", "קשה"),
+    ("סיבובי כתף עם משקולת קלה", "weighted", "קל"),
+    ("לחיצת מוט מעל הראש (Overhead Press)", "weighted", "קשה"),
+    ("משיכה לפנים לכתף אחורית (Face Pull)", "weighted", "בינוני"),
+    ("הרחקת כתף חד-ידנית", "unilateral", "בינוני"),
+    ("לחיצת כתפיים חד-ידנית", "unilateral", "קשה"),
+    ("הרמת מוט זיגזג לכתף קדמית", "weighted", "בינוני"),
+    ("סבסוב זרועות (Arm Circles) עם משקולת קלה", "weighted", "קל"),
+]
+
+ARMS_MAIN = [
+    ("כפיפת מרפקים עם משקולות (Bicep Curl)", "weighted", "קל"),
+    ("כפיפת מרפקים בפטיש (Hammer Curl)", "weighted", "קל"),
+    ("כפיפת מרפקים במוט (Barbell Curl)", "weighted", "בינוני"),
+    ("כפיפת מרפקים בגומיית התנגדות", "weighted", "קל"),
+    ("פשיטת מרפק מעל הראש (Overhead Tricep Extension)", "weighted", "בינוני"),
+    ("פשיטת מרפק בכבל (Tricep Pushdown)", "weighted", "בינוני"),
+    ("מקבילים לטריצפס (Dips)", "bodyweight", "קשה"),
+    ("פשיטת מרפקים בשכיבת סמיכה צרה", "bodyweight", "קשה"),
+    ("כפיפת מרפקים בריכוז (Concentration Curl)", "unilateral", "בינוני"),
+    ("פשיטת מרפק חד-ידנית בכבל", "unilateral", "בינוני"),
+    ("כפיפת שורש כף היד (Wrist Curl)", "weighted", "קל"),
+    ("כפיפת מרפקים 21 (שילוב טווחים)", "weighted", "קשה"),
+    ("כפיפת מרפקים עם קטלבל", "weighted", "בינוני"),
+    ("פשיטת מרפקים בשכיבה (Skull Crusher)", "weighted", "קשה"),
+    ("כפיפת מרפקים חד-ידנית", "unilateral", "קל"),
+]
+
 CARDIO_WARMUP = [
     ("ריצה במקום", "cardio", "קל"),
     ("קפיצות פיסוק", "cardio", "קל"),
@@ -168,4 +204,18 @@ STRETCH_CORE = [
     "מתיחת גחון-גב (Child's Pose לליבה)",
     "מתיחת מותניים בשכיבה (Supine Twist)",
     "מתיחת בטן צידית בעמידה",
+]
+STRETCH_SHOULDERS = [
+    "מתיחת כתף חוצה גוף (Cross-body Shoulder Stretch)",
+    "מתיחת כתף אחורית ביד מאחורי הגב",
+    "מתיחת כתף עם מגבת/רצועה",
+    "סיבובי כתפיים איטיים",
+    "מתיחת טרפז עליון (Upper Trap Stretch)",
+]
+STRETCH_ARMS = [
+    "מתיחת יד קדמית (Wrist Flexor Stretch)",
+    "מתיחת יד אחורית (Wrist Extensor Stretch)",
+    "מתיחת טריצפס מעל הראש",
+    "מתיחת ביצפס בקיר",
+    "מתיחת אמה בישיבה",
 ]

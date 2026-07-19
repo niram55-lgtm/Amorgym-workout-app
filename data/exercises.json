@@ -2320,6 +2320,1206 @@
     "description": "גשר עם כיווץ בטן עליון (עם הפסקה בשיא התנועה) - תרגיל לליבה, רמת קושי בינוני."
   },
   {
+    "name_he": "לחיצת כתפיים - עם משקולות יד",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת כתפיים (עם משקולות יד) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת כתפיים - עם מוט",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת כתפיים (עם מוט) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת כתפיים - בגומיית התנגדות",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת כתפיים (בגומיית התנגדות) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת כתפיים - עם קטלבל",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת כתפיים (עם קטלבל) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת כתפיים - במכונה",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת כתפיים (במכונה) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הרחקת כתפיים צידית (Lateral Raise) - עם משקולות יד",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת כתפיים צידית (Lateral Raise) (עם משקולות יד) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקת כתפיים צידית (Lateral Raise) - עם מוט",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת כתפיים צידית (Lateral Raise) (עם מוט) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקת כתפיים צידית (Lateral Raise) - בגומיית התנגדות",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת כתפיים צידית (Lateral Raise) (בגומיית התנגדות) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקת כתפיים צידית (Lateral Raise) - עם קטלבל",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת כתפיים צידית (Lateral Raise) (עם קטלבל) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקת כתפיים צידית (Lateral Raise) - במכונה",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת כתפיים צידית (Lateral Raise) (במכונה) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקת כתפיים קדמית (Front Raise) - עם משקולות יד",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת כתפיים קדמית (Front Raise) (עם משקולות יד) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקת כתפיים קדמית (Front Raise) - עם מוט",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת כתפיים קדמית (Front Raise) (עם מוט) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקת כתפיים קדמית (Front Raise) - בגומיית התנגדות",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת כתפיים קדמית (Front Raise) (בגומיית התנגדות) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקת כתפיים קדמית (Front Raise) - עם קטלבל",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת כתפיים קדמית (Front Raise) (עם קטלבל) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקת כתפיים קדמית (Front Raise) - במכונה",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת כתפיים קדמית (Front Raise) (במכונה) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "פרפר הפוך לכתף אחורית (Reverse Fly) - עם משקולות יד",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר הפוך לכתף אחורית (Reverse Fly) (עם משקולות יד) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פרפר הפוך לכתף אחורית (Reverse Fly) - עם מוט",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר הפוך לכתף אחורית (Reverse Fly) (עם מוט) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פרפר הפוך לכתף אחורית (Reverse Fly) - בגומיית התנגדות",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר הפוך לכתף אחורית (Reverse Fly) (בגומיית התנגדות) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פרפר הפוך לכתף אחורית (Reverse Fly) - עם קטלבל",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר הפוך לכתף אחורית (Reverse Fly) (עם קטלבל) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פרפר הפוך לכתף אחורית (Reverse Fly) - במכונה",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר הפוך לכתף אחורית (Reverse Fly) (במכונה) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת ארנולד (Arnold Press) - עם משקולות יד",
+    "muscle_group": "כתפיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת ארנולד (Arnold Press) (עם משקולות יד) - תרגיל לכתפיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "לחיצת ארנולד (Arnold Press) - עם מוט",
+    "muscle_group": "כתפיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת ארנולד (Arnold Press) (עם מוט) - תרגיל לכתפיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "לחיצת ארנולד (Arnold Press) - בגומיית התנגדות",
+    "muscle_group": "כתפיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת ארנולד (Arnold Press) (בגומיית התנגדות) - תרגיל לכתפיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "לחיצת ארנולד (Arnold Press) - עם קטלבל",
+    "muscle_group": "כתפיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת ארנולד (Arnold Press) (עם קטלבל) - תרגיל לכתפיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "לחיצת ארנולד (Arnold Press) - במכונה",
+    "muscle_group": "כתפיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת ארנולד (Arnold Press) (במכונה) - תרגיל לכתפיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "משיכת גומייה לסנטר (Upright Row) - עם משקולות יד",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "משיכת גומייה לסנטר (Upright Row) (עם משקולות יד) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "משיכת גומייה לסנטר (Upright Row) - עם מוט",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "משיכת גומייה לסנטר (Upright Row) (עם מוט) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "משיכת גומייה לסנטר (Upright Row) - בגומיית התנגדות",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "משיכת גומייה לסנטר (Upright Row) (בגומיית התנגדות) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "משיכת גומייה לסנטר (Upright Row) - עם קטלבל",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "משיכת גומייה לסנטר (Upright Row) (עם קטלבל) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "משיכת גומייה לסנטר (Upright Row) - במכונה",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "משיכת גומייה לסנטר (Upright Row) (במכונה) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הרחקה בגומייה בעמידה - עם משקולות יד",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקה בגומייה בעמידה (עם משקולות יד) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקה בגומייה בעמידה - עם מוט",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקה בגומייה בעמידה (עם מוט) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקה בגומייה בעמידה - בגומיית התנגדות",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקה בגומייה בעמידה (בגומיית התנגדות) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקה בגומייה בעמידה - עם קטלבל",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקה בגומייה בעמידה (עם קטלבל) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקה בגומייה בעמידה - במכונה",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקה בגומייה בעמידה (במכונה) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "שכיבות סמיכה בשיפוע הפוך לכתפיים (Pike Push-up) - קלאסי",
+    "muscle_group": "כתפיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה בשיפוע הפוך לכתפיים (Pike Push-up) (קלאסי) - תרגיל לכתפיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה בשיפוע הפוך לכתפיים (Pike Push-up) - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "שכיבות סמיכה בשיפוע הפוך לכתפיים (Pike Push-up) (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "שכיבות סמיכה בשיפוע הפוך לכתפיים (Pike Push-up) - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "כתפיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה בשיפוע הפוך לכתפיים (Pike Push-up) (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לכתפיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה בשיפוע הפוך לכתפיים (Pike Push-up) - בטמפו איטי ומבוקר",
+    "muscle_group": "כתפיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה בשיפוע הפוך לכתפיים (Pike Push-up) (בטמפו איטי ומבוקר) - תרגיל לכתפיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה בשיפוע הפוך לכתפיים (Pike Push-up) - עם הפסקה בשיא התנועה",
+    "muscle_group": "כתפיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה בשיפוע הפוך לכתפיים (Pike Push-up) (עם הפסקה בשיא התנועה) - תרגיל לכתפיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "סיבובי כתף עם משקולת קלה - עם משקולות יד",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "סיבובי כתף עם משקולת קלה (עם משקולות יד) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "סיבובי כתף עם משקולת קלה - עם מוט",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "סיבובי כתף עם משקולת קלה (עם מוט) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "סיבובי כתף עם משקולת קלה - בגומיית התנגדות",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "סיבובי כתף עם משקולת קלה (בגומיית התנגדות) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "סיבובי כתף עם משקולת קלה - עם קטלבל",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "סיבובי כתף עם משקולת קלה (עם קטלבל) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "סיבובי כתף עם משקולת קלה - במכונה",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "סיבובי כתף עם משקולת קלה (במכונה) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "לחיצת מוט מעל הראש (Overhead Press) - עם משקולות יד",
+    "muscle_group": "כתפיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת מוט מעל הראש (Overhead Press) (עם משקולות יד) - תרגיל לכתפיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "לחיצת מוט מעל הראש (Overhead Press) - עם מוט",
+    "muscle_group": "כתפיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת מוט מעל הראש (Overhead Press) (עם מוט) - תרגיל לכתפיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "לחיצת מוט מעל הראש (Overhead Press) - בגומיית התנגדות",
+    "muscle_group": "כתפיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת מוט מעל הראש (Overhead Press) (בגומיית התנגדות) - תרגיל לכתפיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "לחיצת מוט מעל הראש (Overhead Press) - עם קטלבל",
+    "muscle_group": "כתפיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת מוט מעל הראש (Overhead Press) (עם קטלבל) - תרגיל לכתפיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "לחיצת מוט מעל הראש (Overhead Press) - במכונה",
+    "muscle_group": "כתפיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת מוט מעל הראש (Overhead Press) (במכונה) - תרגיל לכתפיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "משיכה לפנים לכתף אחורית (Face Pull) - עם משקולות יד",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "משיכה לפנים לכתף אחורית (Face Pull) (עם משקולות יד) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "משיכה לפנים לכתף אחורית (Face Pull) - עם מוט",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "משיכה לפנים לכתף אחורית (Face Pull) (עם מוט) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "משיכה לפנים לכתף אחורית (Face Pull) - בגומיית התנגדות",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "משיכה לפנים לכתף אחורית (Face Pull) (בגומיית התנגדות) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "משיכה לפנים לכתף אחורית (Face Pull) - עם קטלבל",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "משיכה לפנים לכתף אחורית (Face Pull) (עם קטלבל) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "משיכה לפנים לכתף אחורית (Face Pull) - במכונה",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "משיכה לפנים לכתף אחורית (Face Pull) (במכונה) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הרחקת כתף חד-ידנית - דו-צדדי",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת כתף חד-ידנית (דו-צדדי) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקת כתף חד-ידנית - חד-צדדי - צד ימין",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "הרחקת כתף חד-ידנית (חד-צדדי - צד ימין) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הרחקת כתף חד-ידנית - חד-צדדי - צד שמאל",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "הרחקת כתף חד-ידנית (חד-צדדי - צד שמאל) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הרחקת כתף חד-ידנית - עם תמיכה בקיר/כיסא",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת כתף חד-ידנית (עם תמיכה בקיר/כיסא) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקת כתף חד-ידנית - בעמידה לא יציבה (אתגר שיווי משקל)",
+    "muscle_group": "כתפיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "הרחקת כתף חד-ידנית (בעמידה לא יציבה (אתגר שיווי משקל)) - תרגיל לכתפיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "לחיצת כתפיים חד-ידנית - דו-צדדי",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת כתפיים חד-ידנית (דו-צדדי) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת כתפיים חד-ידנית - חד-צדדי - צד ימין",
+    "muscle_group": "כתפיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת כתפיים חד-ידנית (חד-צדדי - צד ימין) - תרגיל לכתפיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "לחיצת כתפיים חד-ידנית - חד-צדדי - צד שמאל",
+    "muscle_group": "כתפיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת כתפיים חד-ידנית (חד-צדדי - צד שמאל) - תרגיל לכתפיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "לחיצת כתפיים חד-ידנית - עם תמיכה בקיר/כיסא",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת כתפיים חד-ידנית (עם תמיכה בקיר/כיסא) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת כתפיים חד-ידנית - בעמידה לא יציבה (אתגר שיווי משקל)",
+    "muscle_group": "כתפיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת כתפיים חד-ידנית (בעמידה לא יציבה (אתגר שיווי משקל)) - תרגיל לכתפיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "הרמת מוט זיגזג לכתף קדמית - עם משקולות יד",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "הרמת מוט זיגזג לכתף קדמית (עם משקולות יד) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הרמת מוט זיגזג לכתף קדמית - עם מוט",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "הרמת מוט זיגזג לכתף קדמית (עם מוט) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הרמת מוט זיגזג לכתף קדמית - בגומיית התנגדות",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "הרמת מוט זיגזג לכתף קדמית (בגומיית התנגדות) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הרמת מוט זיגזג לכתף קדמית - עם קטלבל",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "הרמת מוט זיגזג לכתף קדמית (עם קטלבל) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הרמת מוט זיגזג לכתף קדמית - במכונה",
+    "muscle_group": "כתפיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "הרמת מוט זיגזג לכתף קדמית (במכונה) - תרגיל לכתפיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "סבסוב זרועות (Arm Circles) עם משקולת קלה - עם משקולות יד",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "סבסוב זרועות (Arm Circles) עם משקולת קלה (עם משקולות יד) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "סבסוב זרועות (Arm Circles) עם משקולת קלה - עם מוט",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "סבסוב זרועות (Arm Circles) עם משקולת קלה (עם מוט) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "סבסוב זרועות (Arm Circles) עם משקולת קלה - בגומיית התנגדות",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "סבסוב זרועות (Arm Circles) עם משקולת קלה (בגומיית התנגדות) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "סבסוב זרועות (Arm Circles) עם משקולת קלה - עם קטלבל",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "סבסוב זרועות (Arm Circles) עם משקולת קלה (עם קטלבל) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "סבסוב זרועות (Arm Circles) עם משקולת קלה - במכונה",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "סבסוב זרועות (Arm Circles) עם משקולת קלה (במכונה) - תרגיל לכתפיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים עם משקולות (Bicep Curl) - עם משקולות יד",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים עם משקולות (Bicep Curl) (עם משקולות יד) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים עם משקולות (Bicep Curl) - עם מוט",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים עם משקולות (Bicep Curl) (עם מוט) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים עם משקולות (Bicep Curl) - בגומיית התנגדות",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים עם משקולות (Bicep Curl) (בגומיית התנגדות) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים עם משקולות (Bicep Curl) - עם קטלבל",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים עם משקולות (Bicep Curl) (עם קטלבל) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים עם משקולות (Bicep Curl) - במכונה",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים עם משקולות (Bicep Curl) (במכונה) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים בפטיש (Hammer Curl) - עם משקולות יד",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים בפטיש (Hammer Curl) (עם משקולות יד) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים בפטיש (Hammer Curl) - עם מוט",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים בפטיש (Hammer Curl) (עם מוט) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים בפטיש (Hammer Curl) - בגומיית התנגדות",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים בפטיש (Hammer Curl) (בגומיית התנגדות) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים בפטיש (Hammer Curl) - עם קטלבל",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים בפטיש (Hammer Curl) (עם קטלבל) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים בפטיש (Hammer Curl) - במכונה",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים בפטיש (Hammer Curl) (במכונה) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים במוט (Barbell Curl) - עם משקולות יד",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפת מרפקים במוט (Barbell Curl) (עם משקולות יד) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "כפיפת מרפקים במוט (Barbell Curl) - עם מוט",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפת מרפקים במוט (Barbell Curl) (עם מוט) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "כפיפת מרפקים במוט (Barbell Curl) - בגומיית התנגדות",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפת מרפקים במוט (Barbell Curl) (בגומיית התנגדות) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "כפיפת מרפקים במוט (Barbell Curl) - עם קטלבל",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפת מרפקים במוט (Barbell Curl) (עם קטלבל) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "כפיפת מרפקים במוט (Barbell Curl) - במכונה",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפת מרפקים במוט (Barbell Curl) (במכונה) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "כפיפת מרפקים בגומיית התנגדות - עם משקולות יד",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים בגומיית התנגדות (עם משקולות יד) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים בגומיית התנגדות - עם מוט",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים בגומיית התנגדות (עם מוט) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים בגומיית התנגדות - בגומיית התנגדות",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים בגומיית התנגדות (בגומיית התנגדות) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים בגומיית התנגדות - עם קטלבל",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים בגומיית התנגדות (עם קטלבל) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים בגומיית התנגדות - במכונה",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים בגומיית התנגדות (במכונה) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "פשיטת מרפק מעל הראש (Overhead Tricep Extension) - עם משקולות יד",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת מרפק מעל הראש (Overhead Tricep Extension) (עם משקולות יד) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פשיטת מרפק מעל הראש (Overhead Tricep Extension) - עם מוט",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת מרפק מעל הראש (Overhead Tricep Extension) (עם מוט) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פשיטת מרפק מעל הראש (Overhead Tricep Extension) - בגומיית התנגדות",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת מרפק מעל הראש (Overhead Tricep Extension) (בגומיית התנגדות) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פשיטת מרפק מעל הראש (Overhead Tricep Extension) - עם קטלבל",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת מרפק מעל הראש (Overhead Tricep Extension) (עם קטלבל) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פשיטת מרפק מעל הראש (Overhead Tricep Extension) - במכונה",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת מרפק מעל הראש (Overhead Tricep Extension) (במכונה) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פשיטת מרפק בכבל (Tricep Pushdown) - עם משקולות יד",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת מרפק בכבל (Tricep Pushdown) (עם משקולות יד) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פשיטת מרפק בכבל (Tricep Pushdown) - עם מוט",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת מרפק בכבל (Tricep Pushdown) (עם מוט) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פשיטת מרפק בכבל (Tricep Pushdown) - בגומיית התנגדות",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת מרפק בכבל (Tricep Pushdown) (בגומיית התנגדות) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פשיטת מרפק בכבל (Tricep Pushdown) - עם קטלבל",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת מרפק בכבל (Tricep Pushdown) (עם קטלבל) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פשיטת מרפק בכבל (Tricep Pushdown) - במכונה",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת מרפק בכבל (Tricep Pushdown) (במכונה) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "מקבילים לטריצפס (Dips) - קלאסי",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "מקבילים לטריצפס (Dips) (קלאסי) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "מקבילים לטריצפס (Dips) - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "מקבילים לטריצפס (Dips) (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "מקבילים לטריצפס (Dips) - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "מקבילים לטריצפס (Dips) (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "מקבילים לטריצפס (Dips) - בטמפו איטי ומבוקר",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "מקבילים לטריצפס (Dips) (בטמפו איטי ומבוקר) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "מקבילים לטריצפס (Dips) - עם הפסקה בשיא התנועה",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "מקבילים לטריצפס (Dips) (עם הפסקה בשיא התנועה) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "פשיטת מרפקים בשכיבת סמיכה צרה - קלאסי",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "פשיטת מרפקים בשכיבת סמיכה צרה (קלאסי) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "פשיטת מרפקים בשכיבת סמיכה צרה - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת מרפקים בשכיבת סמיכה צרה (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פשיטת מרפקים בשכיבת סמיכה צרה - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "פשיטת מרפקים בשכיבת סמיכה צרה (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "פשיטת מרפקים בשכיבת סמיכה צרה - בטמפו איטי ומבוקר",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "פשיטת מרפקים בשכיבת סמיכה צרה (בטמפו איטי ומבוקר) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "פשיטת מרפקים בשכיבת סמיכה צרה - עם הפסקה בשיא התנועה",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "פשיטת מרפקים בשכיבת סמיכה צרה (עם הפסקה בשיא התנועה) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "כפיפת מרפקים בריכוז (Concentration Curl) - דו-צדדי",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים בריכוז (Concentration Curl) (דו-צדדי) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים בריכוז (Concentration Curl) - חד-צדדי - צד ימין",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפת מרפקים בריכוז (Concentration Curl) (חד-צדדי - צד ימין) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "כפיפת מרפקים בריכוז (Concentration Curl) - חד-צדדי - צד שמאל",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפת מרפקים בריכוז (Concentration Curl) (חד-צדדי - צד שמאל) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "כפיפת מרפקים בריכוז (Concentration Curl) - עם תמיכה בקיר/כיסא",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים בריכוז (Concentration Curl) (עם תמיכה בקיר/כיסא) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים בריכוז (Concentration Curl) - בעמידה לא יציבה (אתגר שיווי משקל)",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "כפיפת מרפקים בריכוז (Concentration Curl) (בעמידה לא יציבה (אתגר שיווי משקל)) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "פשיטת מרפק חד-ידנית בכבל - דו-צדדי",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "פשיטת מרפק חד-ידנית בכבל (דו-צדדי) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "פשיטת מרפק חד-ידנית בכבל - חד-צדדי - צד ימין",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת מרפק חד-ידנית בכבל (חד-צדדי - צד ימין) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פשיטת מרפק חד-ידנית בכבל - חד-צדדי - צד שמאל",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת מרפק חד-ידנית בכבל (חד-צדדי - צד שמאל) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פשיטת מרפק חד-ידנית בכבל - עם תמיכה בקיר/כיסא",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "פשיטת מרפק חד-ידנית בכבל (עם תמיכה בקיר/כיסא) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "פשיטת מרפק חד-ידנית בכבל - בעמידה לא יציבה (אתגר שיווי משקל)",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "פשיטת מרפק חד-ידנית בכבל (בעמידה לא יציבה (אתגר שיווי משקל)) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "כפיפת שורש כף היד (Wrist Curl) - עם משקולות יד",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת שורש כף היד (Wrist Curl) (עם משקולות יד) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת שורש כף היד (Wrist Curl) - עם מוט",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת שורש כף היד (Wrist Curl) (עם מוט) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת שורש כף היד (Wrist Curl) - בגומיית התנגדות",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת שורש כף היד (Wrist Curl) (בגומיית התנגדות) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת שורש כף היד (Wrist Curl) - עם קטלבל",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת שורש כף היד (Wrist Curl) (עם קטלבל) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת שורש כף היד (Wrist Curl) - במכונה",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת שורש כף היד (Wrist Curl) (במכונה) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים 21 (שילוב טווחים) - עם משקולות יד",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "כפיפת מרפקים 21 (שילוב טווחים) (עם משקולות יד) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "כפיפת מרפקים 21 (שילוב טווחים) - עם מוט",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "כפיפת מרפקים 21 (שילוב טווחים) (עם מוט) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "כפיפת מרפקים 21 (שילוב טווחים) - בגומיית התנגדות",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "כפיפת מרפקים 21 (שילוב טווחים) (בגומיית התנגדות) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "כפיפת מרפקים 21 (שילוב טווחים) - עם קטלבל",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "כפיפת מרפקים 21 (שילוב טווחים) (עם קטלבל) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "כפיפת מרפקים 21 (שילוב טווחים) - במכונה",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "כפיפת מרפקים 21 (שילוב טווחים) (במכונה) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "כפיפת מרפקים עם קטלבל - עם משקולות יד",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפת מרפקים עם קטלבל (עם משקולות יד) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "כפיפת מרפקים עם קטלבל - עם מוט",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפת מרפקים עם קטלבל (עם מוט) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "כפיפת מרפקים עם קטלבל - בגומיית התנגדות",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפת מרפקים עם קטלבל (בגומיית התנגדות) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "כפיפת מרפקים עם קטלבל - עם קטלבל",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפת מרפקים עם קטלבל (עם קטלבל) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "כפיפת מרפקים עם קטלבל - במכונה",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפת מרפקים עם קטלבל (במכונה) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פשיטת מרפקים בשכיבה (Skull Crusher) - עם משקולות יד",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "פשיטת מרפקים בשכיבה (Skull Crusher) (עם משקולות יד) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "פשיטת מרפקים בשכיבה (Skull Crusher) - עם מוט",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "פשיטת מרפקים בשכיבה (Skull Crusher) (עם מוט) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "פשיטת מרפקים בשכיבה (Skull Crusher) - בגומיית התנגדות",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "פשיטת מרפקים בשכיבה (Skull Crusher) (בגומיית התנגדות) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "פשיטת מרפקים בשכיבה (Skull Crusher) - עם קטלבל",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "פשיטת מרפקים בשכיבה (Skull Crusher) (עם קטלבל) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "פשיטת מרפקים בשכיבה (Skull Crusher) - במכונה",
+    "muscle_group": "ידיים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "פשיטת מרפקים בשכיבה (Skull Crusher) (במכונה) - תרגיל לידיים, רמת קושי קשה."
+  },
+  {
+    "name_he": "כפיפת מרפקים חד-ידנית - דו-צדדי",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים חד-ידנית (דו-צדדי) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים חד-ידנית - חד-צדדי - צד ימין",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים חד-ידנית (חד-צדדי - צד ימין) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים חד-ידנית - חד-צדדי - צד שמאל",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים חד-ידנית (חד-צדדי - צד שמאל) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים חד-ידנית - עם תמיכה בקיר/כיסא",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפת מרפקים חד-ידנית (עם תמיכה בקיר/כיסא) - תרגיל לידיים, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפת מרפקים חד-ידנית - בעמידה לא יציבה (אתגר שיווי משקל)",
+    "muscle_group": "ידיים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפת מרפקים חד-ידנית (בעמידה לא יציבה (אתגר שיווי משקל)) - תרגיל לידיים, רמת קושי בינוני."
+  },
+  {
     "name_he": "ריצה במקום - בקצב נמוך",
     "muscle_group": "אירובי",
     "difficulty": "קל",
@@ -3982,5 +5182,405 @@
     "phase": "שחרור",
     "default_duration_seconds": 30,
     "description": "מתיחת בטן צידית בעמידה (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת כתף חוצה גוף (Cross-body Shoulder Stretch) - מתיחה סטטית 20 שניות",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתף חוצה גוף (Cross-body Shoulder Stretch) (מתיחה סטטית 20 שניות) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת כתף חוצה גוף (Cross-body Shoulder Stretch) - מתיחה סטטית 30 שניות",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתף חוצה גוף (Cross-body Shoulder Stretch) (מתיחה סטטית 30 שניות) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת כתף חוצה גוף (Cross-body Shoulder Stretch) - מתיחה דינמית",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתף חוצה גוף (Cross-body Shoulder Stretch) (מתיחה דינמית) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת כתף חוצה גוף (Cross-body Shoulder Stretch) - מתיחה עם רצועה/גומייה",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתף חוצה גוף (Cross-body Shoulder Stretch) (מתיחה עם רצועה/גומייה) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת כתף חוצה גוף (Cross-body Shoulder Stretch) - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתף חוצה גוף (Cross-body Shoulder Stretch) (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת כתף אחורית ביד מאחורי הגב - מתיחה סטטית 20 שניות",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתף אחורית ביד מאחורי הגב (מתיחה סטטית 20 שניות) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת כתף אחורית ביד מאחורי הגב - מתיחה סטטית 30 שניות",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתף אחורית ביד מאחורי הגב (מתיחה סטטית 30 שניות) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת כתף אחורית ביד מאחורי הגב - מתיחה דינמית",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתף אחורית ביד מאחורי הגב (מתיחה דינמית) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת כתף אחורית ביד מאחורי הגב - מתיחה עם רצועה/גומייה",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתף אחורית ביד מאחורי הגב (מתיחה עם רצועה/גומייה) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת כתף אחורית ביד מאחורי הגב - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתף אחורית ביד מאחורי הגב (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת כתף עם מגבת/רצועה - מתיחה סטטית 20 שניות",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתף עם מגבת/רצועה (מתיחה סטטית 20 שניות) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת כתף עם מגבת/רצועה - מתיחה סטטית 30 שניות",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתף עם מגבת/רצועה (מתיחה סטטית 30 שניות) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת כתף עם מגבת/רצועה - מתיחה דינמית",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתף עם מגבת/רצועה (מתיחה דינמית) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת כתף עם מגבת/רצועה - מתיחה עם רצועה/גומייה",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתף עם מגבת/רצועה (מתיחה עם רצועה/גומייה) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת כתף עם מגבת/רצועה - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתף עם מגבת/רצועה (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "סיבובי כתפיים איטיים - מתיחה סטטית 20 שניות",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "סיבובי כתפיים איטיים (מתיחה סטטית 20 שניות) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "סיבובי כתפיים איטיים - מתיחה סטטית 30 שניות",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "סיבובי כתפיים איטיים (מתיחה סטטית 30 שניות) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "סיבובי כתפיים איטיים - מתיחה דינמית",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "סיבובי כתפיים איטיים (מתיחה דינמית) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "סיבובי כתפיים איטיים - מתיחה עם רצועה/גומייה",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "סיבובי כתפיים איטיים (מתיחה עם רצועה/גומייה) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "סיבובי כתפיים איטיים - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "סיבובי כתפיים איטיים (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת טרפז עליון (Upper Trap Stretch) - מתיחה סטטית 20 שניות",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת טרפז עליון (Upper Trap Stretch) (מתיחה סטטית 20 שניות) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת טרפז עליון (Upper Trap Stretch) - מתיחה סטטית 30 שניות",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת טרפז עליון (Upper Trap Stretch) (מתיחה סטטית 30 שניות) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת טרפז עליון (Upper Trap Stretch) - מתיחה דינמית",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת טרפז עליון (Upper Trap Stretch) (מתיחה דינמית) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת טרפז עליון (Upper Trap Stretch) - מתיחה עם רצועה/גומייה",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת טרפז עליון (Upper Trap Stretch) (מתיחה עם רצועה/גומייה) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת טרפז עליון (Upper Trap Stretch) - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "כתפיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת טרפז עליון (Upper Trap Stretch) (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לכתפיים."
+  },
+  {
+    "name_he": "מתיחת יד קדמית (Wrist Flexor Stretch) - מתיחה סטטית 20 שניות",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת יד קדמית (Wrist Flexor Stretch) (מתיחה סטטית 20 שניות) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת יד קדמית (Wrist Flexor Stretch) - מתיחה סטטית 30 שניות",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת יד קדמית (Wrist Flexor Stretch) (מתיחה סטטית 30 שניות) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת יד קדמית (Wrist Flexor Stretch) - מתיחה דינמית",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת יד קדמית (Wrist Flexor Stretch) (מתיחה דינמית) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת יד קדמית (Wrist Flexor Stretch) - מתיחה עם רצועה/גומייה",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת יד קדמית (Wrist Flexor Stretch) (מתיחה עם רצועה/גומייה) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת יד קדמית (Wrist Flexor Stretch) - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת יד קדמית (Wrist Flexor Stretch) (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת יד אחורית (Wrist Extensor Stretch) - מתיחה סטטית 20 שניות",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת יד אחורית (Wrist Extensor Stretch) (מתיחה סטטית 20 שניות) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת יד אחורית (Wrist Extensor Stretch) - מתיחה סטטית 30 שניות",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת יד אחורית (Wrist Extensor Stretch) (מתיחה סטטית 30 שניות) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת יד אחורית (Wrist Extensor Stretch) - מתיחה דינמית",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת יד אחורית (Wrist Extensor Stretch) (מתיחה דינמית) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת יד אחורית (Wrist Extensor Stretch) - מתיחה עם רצועה/גומייה",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת יד אחורית (Wrist Extensor Stretch) (מתיחה עם רצועה/גומייה) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת יד אחורית (Wrist Extensor Stretch) - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת יד אחורית (Wrist Extensor Stretch) (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת טריצפס מעל הראש - מתיחה סטטית 20 שניות",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת טריצפס מעל הראש (מתיחה סטטית 20 שניות) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת טריצפס מעל הראש - מתיחה סטטית 30 שניות",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת טריצפס מעל הראש (מתיחה סטטית 30 שניות) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת טריצפס מעל הראש - מתיחה דינמית",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת טריצפס מעל הראש (מתיחה דינמית) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת טריצפס מעל הראש - מתיחה עם רצועה/גומייה",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת טריצפס מעל הראש (מתיחה עם רצועה/גומייה) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת טריצפס מעל הראש - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת טריצפס מעל הראש (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת ביצפס בקיר - מתיחה סטטית 20 שניות",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת ביצפס בקיר (מתיחה סטטית 20 שניות) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת ביצפס בקיר - מתיחה סטטית 30 שניות",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת ביצפס בקיר (מתיחה סטטית 30 שניות) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת ביצפס בקיר - מתיחה דינמית",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת ביצפס בקיר (מתיחה דינמית) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת ביצפס בקיר - מתיחה עם רצועה/גומייה",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת ביצפס בקיר (מתיחה עם רצועה/גומייה) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת ביצפס בקיר - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת ביצפס בקיר (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת אמה בישיבה - מתיחה סטטית 20 שניות",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת אמה בישיבה (מתיחה סטטית 20 שניות) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת אמה בישיבה - מתיחה סטטית 30 שניות",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת אמה בישיבה (מתיחה סטטית 30 שניות) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת אמה בישיבה - מתיחה דינמית",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת אמה בישיבה (מתיחה דינמית) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת אמה בישיבה - מתיחה עם רצועה/גומייה",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת אמה בישיבה (מתיחה עם רצועה/גומייה) - מתיחת שחרור לידיים."
+  },
+  {
+    "name_he": "מתיחת אמה בישיבה - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "ידיים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת אמה בישיבה (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לידיים."
   }
 ]
