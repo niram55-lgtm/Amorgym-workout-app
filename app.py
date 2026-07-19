@@ -4,6 +4,9 @@
 במקביל), פאנל מאמנת (יצירה, עריכה חכמה ושמירה של אימונים) והיסטוריית אימונים.
 כל הממשק בעברית וב-RTL.
 """
+import subprocess
+from pathlib import Path
+
 import streamlit as st
 
 from database import (
@@ -24,6 +27,28 @@ from seed_db import seed_database
 
 THEME_GROUPS = [g for g in MUSCLE_GROUPS if g != "אירובי"]
 PHASE_LABELS = ["חימום", "מרכזי", "שחרור"]
+
+
+@st.cache_resource
+def get_app_version() -> str:
+    """
+    מזהה גרסה של הקוד שרץ בפועל, נגזר אוטומטית מה-commit הנוכחי ב-git.
+    כך אין צורך לעדכן ידנית מספר גרסה - הוא תמיד משקף באמת מה פרוס כרגע,
+    ומשמש לוודא שרענון האפליקציה אכן העלה את הקוד העדכני.
+    """
+    try:
+        result = subprocess.run(
+            ["git", "rev-parse", "--short", "HEAD"],
+            capture_output=True,
+            text=True,
+            timeout=3,
+            cwd=Path(__file__).parent,
+        )
+        if result.returncode == 0 and result.stdout.strip():
+            return result.stdout.strip()
+    except Exception:
+        pass
+    return "dev"
 
 
 # ---------------------------------------------------------------------------
@@ -52,6 +77,26 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
+
+st.markdown(
+    f"""
+    <div style="
+        position: fixed;
+        bottom: 8px;
+        left: 12px;
+        z-index: 9999;
+        font-size: 12px;
+        color: #9a9a9a;
+        direction: ltr;
+        pointer-events: none;
+        user-select: none;
+    ">
+        {get_app_version()}
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
+
 
 @st.cache_resource
 def bootstrap_database() -> None:
