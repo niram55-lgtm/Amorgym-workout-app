@@ -52,6 +52,7 @@ class Exercise(Base):
     muscle_group: Mapped[str] = mapped_column(String(30), nullable=False)
     difficulty: Mapped[str] = mapped_column(String(20), nullable=False)
     phase: Mapped[str] = mapped_column(String(20), nullable=False)  # חימום / מרכזי / שחרור
+    equipment: Mapped[str] = mapped_column(String(40), default="ללא ציוד")
     default_duration_seconds: Mapped[int] = mapped_column(Integer, default=45)
     description: Mapped[Optional[str]] = mapped_column(String(300), nullable=True)
 
@@ -140,6 +141,7 @@ class WorkoutExercise(Base):
     name_he: Mapped[str] = mapped_column(String(150), nullable=False)
     muscle_group: Mapped[str] = mapped_column(String(30), nullable=False)
     difficulty: Mapped[str] = mapped_column(String(20), nullable=False)
+    equipment: Mapped[str] = mapped_column(String(40), default="ללא ציוד")
     duration_seconds: Mapped[int] = mapped_column(Integer, nullable=False)
     is_mandatory: Mapped[bool] = mapped_column(Boolean, default=False)
 

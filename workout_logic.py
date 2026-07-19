@@ -174,6 +174,7 @@ def _generate_single_workout(session, program: Program, total_minutes: int) -> l
                     "name_he": ex.name_he,
                     "muscle_group": ex.muscle_group,
                     "difficulty": ex.difficulty,
+                    "equipment": ex.equipment,
                     "duration_seconds": duration,
                     "is_mandatory": is_mandatory,
                 }
@@ -209,6 +210,7 @@ def _generate_single_workout(session, program: Program, total_minutes: int) -> l
             "name_he": program.mandatory_exercise_name,
             "muscle_group": mandatory_exercise.muscle_group if mandatory_exercise else "ליבה",
             "difficulty": mandatory_exercise.difficulty if mandatory_exercise else "בינוני",
+            "equipment": mandatory_exercise.equipment if mandatory_exercise else "משקל גוף",
             "duration_seconds": program.mandatory_duration_seconds,
             "is_mandatory": True,
         }

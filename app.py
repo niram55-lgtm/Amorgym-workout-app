@@ -278,6 +278,7 @@ def admin_panel():
                 {
                     "שם": ex.name_he,
                     "קבוצת שריר": ex.muscle_group,
+                    "ציוד": ex.equipment,
                     "קושי": ex.difficulty,
                     "שלב": ex.phase,
                     "משך (שניות)": ex.default_duration_seconds,
@@ -392,6 +393,7 @@ def trainer_panel():
                         name_he=item["name_he"],
                         muscle_group=item["muscle_group"],
                         difficulty=item["difficulty"],
+                        equipment=item["equipment"],
                         duration_seconds=item["duration_seconds"],
                         is_mandatory=item["is_mandatory"],
                     )
@@ -412,12 +414,13 @@ def trainer_panel():
 
             for item in phase_items:
                 idx = workout_items.index(item)
-                c1, c2, c3, c4, c5 = st.columns([3, 2, 2, 2, 2])
+                c1, c2, c3, c4, c5, c6 = st.columns([3, 2, 2, 2, 2, 2])
                 c1.markdown(f"**{item['name_he']}**" + (" 🔒" if item["is_mandatory"] else ""))
                 c2.write(item["muscle_group"])
-                c3.write(item["difficulty"])
-                c4.write(fmt_duration(item["duration_seconds"]))
-                with c5:
+                c3.write(item["equipment"])
+                c4.write(item["difficulty"])
+                c5.write(fmt_duration(item["duration_seconds"]))
+                with c6:
                     if not item["is_mandatory"]:
                         if st.button("🔄 החלף", key=f"swap_{idx}"):
                             alt = find_alternative_exercise(
@@ -430,10 +433,12 @@ def trainer_panel():
                             if alt is None:
                                 st.toast("אין תרגיל חלופי זמין באותה קבוצת שריר, קושי ושלב.", icon="⚠️")
                             else:
+                                # שומרים על משך הזמן המקורי של המשבצת - הוא עשוי לייצג
+                                # כמה סטים בחלק המרכזי, לא רק את משך ברירת המחדל של התרגיל.
                                 used_ids.discard(item["exercise_id"])
                                 item["exercise_id"] = alt.id
                                 item["name_he"] = alt.name_he
-                                item["duration_seconds"] = alt.default_duration_seconds
+                                item["equipment"] = alt.equipment
                                 used_ids.add(alt.id)
                                 st.session_state["workout"] = workout_items
                                 st.session_state["workout_saved"] = False
@@ -473,6 +478,7 @@ def history_panel():
                             "שלב": item.phase,
                             "תרגיל": item.name_he + (" 🔒" if item.is_mandatory else ""),
                             "קבוצת שריר": item.muscle_group,
+                            "ציוד": item.equipment,
                             "קושי": item.difficulty,
                             "משך": fmt_duration(item.duration_seconds),
                         }
