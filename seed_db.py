@@ -9,6 +9,8 @@
     python seed_db.py
 """
 import json
+import os
+import secrets as pysecrets
 from pathlib import Path
 
 from database import Exercise, Program, User, init_db, get_session
@@ -16,6 +18,26 @@ from exercise_catalog_generator import build_catalog
 
 DATA_DIR = Path("data")
 DATA_FILE = DATA_DIR / "exercises.json"
+
+
+def _resolve_password(secret_key: str, env_key: str, random_prefix: str) -> str:
+    """
+    קובעת את סיסמת ברירת המחדל למשתמשת ראשונית, לפי סדר עדיפות:
+    1. st.secrets (מוגדר בממשק ה-Secrets של Streamlit Cloud - לא נשמר בקוד/git בכלל)
+    2. משתנה סביבה (לפיתוח מקומי, למשל בקובץ .env שלא מחובר ל-git)
+    3. סיסמה אקראית חד-פעמית (מודפסת לטרמינל בזמן ה-seed) - כדי שלעולם לא תהיה
+       סיסמה קבועה בקוד המקור, גם אם ה-repo הופך ל-Public.
+    """
+    try:
+        import streamlit as st
+        if secret_key in st.secrets:
+            return st.secrets[secret_key]
+    except Exception:
+        pass
+    if os.environ.get(env_key):
+        return os.environ[env_key]
+    return f"{random_prefix}-{pysecrets.token_hex(4)}"
+
 
 DEFAULT_PROGRAMS = [
     {
@@ -36,11 +58,25 @@ DEFAULT_PROGRAMS = [
     },
 ]
 
-# משתמשות ברירת מחדל להתחברות ראשונית. יש להחליף סיסמאות אלו בסביבת אמת.
-DEFAULT_USERS = [
-    {"username": "manager", "password": "admin123", "display_name": "מנהלת הסטודיו", "role": "מנהלת"},
-    {"username": "trainer1", "password": "trainer123", "display_name": "מאמנת לדוגמה", "role": "מאמנת"},
-]
+def _default_users() -> list[dict]:
+    """
+    נבנה בכל קריאה (לא קבוע מודול) כדי שהסיסמה האקראית תיקבע פעם אחת בזמן ה-seed בפועל,
+    ולא תיחשף בקוד המקור עצמו.
+    """
+    return [
+        {
+            "username": "manager",
+            "password": _resolve_password("GYM_MANAGER_PASSWORD", "GYM_MANAGER_PASSWORD", "manager"),
+            "display_name": "מנהלת הסטודיו",
+            "role": "מנהלת",
+        },
+        {
+            "username": "trainer1",
+            "password": _resolve_password("GYM_TRAINER_PASSWORD", "GYM_TRAINER_PASSWORD", "trainer"),
+            "display_name": "מאמנת לדוגמה",
+            "role": "מאמנת",
+        },
+    ]
 
 
 def write_json_file() -> list[dict]:
@@ -72,13 +108,14 @@ def seed_database(catalog: list[dict]) -> None:
             print(f"נוצרו {len(DEFAULT_PROGRAMS)} תוכניות לדוגמה.")
 
         if session.query(User).count() == 0:
-            for u in DEFAULT_USERS:
+            default_users = _default_users()
+            for u in default_users:
                 user = User(username=u["username"], display_name=u["display_name"], role=u["role"])
                 user.set_password(u["password"])
                 session.add(user)
             session.commit()
-            print("נוצרו משתמשות ברירת מחדל:")
-            for u in DEFAULT_USERS:
+            print("נוצרו משתמשות ברירת מחדל - שמרי את הסיסמאות האלו, הן לא נשמרות בשום מקום אחר:")
+            for u in default_users:
                 print(f"  - {u['role']}: שם משתמש '{u['username']}' / סיסמה '{u['password']}'")
     finally:
         session.close()
