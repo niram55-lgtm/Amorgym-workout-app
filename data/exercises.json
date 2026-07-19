@@ -1,0 +1,3986 @@
+[
+  {
+    "name_he": "חתירה - עם משקולות יד",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חתירה (עם משקולות יד) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "חתירה - עם מוט",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חתירה (עם מוט) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "חתירה - בגומיית התנגדות",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חתירה (בגומיית התנגדות) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "חתירה - עם קטלבל",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חתירה (עם קטלבל) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "חתירה - במכונה",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חתירה (במכונה) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "משיכה אנכית - עם משקולות יד",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "משיכה אנכית (עם משקולות יד) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "משיכה אנכית - עם מוט",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "משיכה אנכית (עם מוט) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "משיכה אנכית - בגומיית התנגדות",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "משיכה אנכית (בגומיית התנגדות) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "משיכה אנכית - עם קטלבל",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "משיכה אנכית (עם קטלבל) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "משיכה אנכית - במכונה",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "משיכה אנכית (במכונה) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "מתח - קלאסי",
+    "muscle_group": "גו",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "מתח (קלאסי) - תרגיל לגו, רמת קושי קשה."
+  },
+  {
+    "name_he": "מתח - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "מתח (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "מתח - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "גו",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "מתח (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לגו, רמת קושי קשה."
+  },
+  {
+    "name_he": "מתח - בטמפו איטי ומבוקר",
+    "muscle_group": "גו",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "מתח (בטמפו איטי ומבוקר) - תרגיל לגו, רמת קושי קשה."
+  },
+  {
+    "name_he": "מתח - עם הפסקה בשיא התנועה",
+    "muscle_group": "גו",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "מתח (עם הפסקה בשיא התנועה) - תרגיל לגו, רמת קושי קשה."
+  },
+  {
+    "name_he": "פשיטת גב תחתון - קלאסי",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "פשיטת גב תחתון (קלאסי) - תרגיל לגו, רמת קושי קל."
+  },
+  {
+    "name_he": "פשיטת גב תחתון - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "פשיטת גב תחתון (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לגו, רמת קושי קל."
+  },
+  {
+    "name_he": "פשיטת גב תחתון - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת גב תחתון (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פשיטת גב תחתון - בטמפו איטי ומבוקר",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת גב תחתון (בטמפו איטי ומבוקר) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פשיטת גב תחתון - עם הפסקה בשיא התנועה",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת גב תחתון (עם הפסקה בשיא התנועה) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "סופרמן - קלאסי",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "סופרמן (קלאסי) - תרגיל לגו, רמת קושי קל."
+  },
+  {
+    "name_he": "סופרמן - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "סופרמן (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לגו, רמת קושי קל."
+  },
+  {
+    "name_he": "סופרמן - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "סופרמן (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "סופרמן - בטמפו איטי ומבוקר",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "סופרמן (בטמפו איטי ומבוקר) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "סופרמן - עם הפסקה בשיא התנועה",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "סופרמן (עם הפסקה בשיא התנועה) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "דדליפט - עם משקולות יד",
+    "muscle_group": "גו",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "דדליפט (עם משקולות יד) - תרגיל לגו, רמת קושי קשה."
+  },
+  {
+    "name_he": "דדליפט - עם מוט",
+    "muscle_group": "גו",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "דדליפט (עם מוט) - תרגיל לגו, רמת קושי קשה."
+  },
+  {
+    "name_he": "דדליפט - בגומיית התנגדות",
+    "muscle_group": "גו",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "דדליפט (בגומיית התנגדות) - תרגיל לגו, רמת קושי קשה."
+  },
+  {
+    "name_he": "דדליפט - עם קטלבל",
+    "muscle_group": "גו",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "דדליפט (עם קטלבל) - תרגיל לגו, רמת קושי קשה."
+  },
+  {
+    "name_he": "דדליפט - במכונה",
+    "muscle_group": "גו",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "דדליפט (במכונה) - תרגיל לגו, רמת קושי קשה."
+  },
+  {
+    "name_he": "דדליפט רומני - עם משקולות יד",
+    "muscle_group": "גו",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "דדליפט רומני (עם משקולות יד) - תרגיל לגו, רמת קושי קשה."
+  },
+  {
+    "name_he": "דדליפט רומני - עם מוט",
+    "muscle_group": "גו",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "דדליפט רומני (עם מוט) - תרגיל לגו, רמת קושי קשה."
+  },
+  {
+    "name_he": "דדליפט רומני - בגומיית התנגדות",
+    "muscle_group": "גו",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "דדליפט רומני (בגומיית התנגדות) - תרגיל לגו, רמת קושי קשה."
+  },
+  {
+    "name_he": "דדליפט רומני - עם קטלבל",
+    "muscle_group": "גו",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "דדליפט רומני (עם קטלבל) - תרגיל לגו, רמת קושי קשה."
+  },
+  {
+    "name_he": "דדליפט רומני - במכונה",
+    "muscle_group": "גו",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "דדליפט רומני (במכונה) - תרגיל לגו, רמת קושי קשה."
+  },
+  {
+    "name_he": "חתירת T - עם משקולות יד",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חתירת T (עם משקולות יד) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "חתירת T - עם מוט",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חתירת T (עם מוט) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "חתירת T - בגומיית התנגדות",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חתירת T (בגומיית התנגדות) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "חתירת T - עם קטלבל",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חתירת T (עם קטלבל) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "חתירת T - במכונה",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חתירת T (במכונה) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פייס פול - עם משקולות יד",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פייס פול (עם משקולות יד) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פייס פול - עם מוט",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פייס פול (עם מוט) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פייס פול - בגומיית התנגדות",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פייס פול (בגומיית התנגדות) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פייס פול - עם קטלבל",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פייס פול (עם קטלבל) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פייס פול - במכונה",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פייס פול (במכונה) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "שראגס - עם משקולות יד",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "שראגס (עם משקולות יד) - תרגיל לגו, רמת קושי קל."
+  },
+  {
+    "name_he": "שראגס - עם מוט",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "שראגס (עם מוט) - תרגיל לגו, רמת קושי קל."
+  },
+  {
+    "name_he": "שראגס - בגומיית התנגדות",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "שראגס (בגומיית התנגדות) - תרגיל לגו, רמת קושי קל."
+  },
+  {
+    "name_he": "שראגס - עם קטלבל",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "שראגס (עם קטלבל) - תרגיל לגו, רמת קושי קל."
+  },
+  {
+    "name_he": "שראגס - במכונה",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "שראגס (במכונה) - תרגיל לגו, רמת קושי קל."
+  },
+  {
+    "name_he": "גיחה (Good Morning) - עם משקולות יד",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "גיחה (Good Morning) (עם משקולות יד) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "גיחה (Good Morning) - עם מוט",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "גיחה (Good Morning) (עם מוט) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "גיחה (Good Morning) - בגומיית התנגדות",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "גיחה (Good Morning) (בגומיית התנגדות) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "גיחה (Good Morning) - עם קטלבל",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "גיחה (Good Morning) (עם קטלבל) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "גיחה (Good Morning) - במכונה",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "גיחה (Good Morning) (במכונה) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "חתירה בכבל בישיבה - עם משקולות יד",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חתירה בכבל בישיבה (עם משקולות יד) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "חתירה בכבל בישיבה - עם מוט",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חתירה בכבל בישיבה (עם מוט) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "חתירה בכבל בישיבה - בגומיית התנגדות",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חתירה בכבל בישיבה (בגומיית התנגדות) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "חתירה בכבל בישיבה - עם קטלבל",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חתירה בכבל בישיבה (עם קטלבל) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "חתירה בכבל בישיבה - במכונה",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חתירה בכבל בישיבה (במכונה) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פולאובר לגב - עם משקולות יד",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פולאובר לגב (עם משקולות יד) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פולאובר לגב - עם מוט",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פולאובר לגב (עם מוט) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פולאובר לגב - בגומיית התנגדות",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פולאובר לגב (בגומיית התנגדות) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פולאובר לגב - עם קטלבל",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פולאובר לגב (עם קטלבל) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פולאובר לגב - במכונה",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פולאובר לגב (במכונה) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "חתירה חד-ידנית - דו-צדדי",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "חתירה חד-ידנית (דו-צדדי) - תרגיל לגו, רמת קושי קל."
+  },
+  {
+    "name_he": "חתירה חד-ידנית - חד-צדדי - צד ימין",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חתירה חד-ידנית (חד-צדדי - צד ימין) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "חתירה חד-ידנית - חד-צדדי - צד שמאל",
+    "muscle_group": "גו",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חתירה חד-ידנית (חד-צדדי - צד שמאל) - תרגיל לגו, רמת קושי בינוני."
+  },
+  {
+    "name_he": "חתירה חד-ידנית - עם תמיכה בקיר/כיסא",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "חתירה חד-ידנית (עם תמיכה בקיר/כיסא) - תרגיל לגו, רמת קושי קל."
+  },
+  {
+    "name_he": "חתירה חד-ידנית - בעמידה לא יציבה (אתגר שיווי משקל)",
+    "muscle_group": "גו",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "חתירה חד-ידנית (בעמידה לא יציבה (אתגר שיווי משקל)) - תרגיל לגו, רמת קושי קשה."
+  },
+  {
+    "name_he": "הרחקת זרועות Y - עם משקולות יד",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת זרועות Y (עם משקולות יד) - תרגיל לגו, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקת זרועות Y - עם מוט",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת זרועות Y (עם מוט) - תרגיל לגו, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקת זרועות Y - בגומיית התנגדות",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת זרועות Y (בגומיית התנגדות) - תרגיל לגו, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקת זרועות Y - עם קטלבל",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת זרועות Y (עם קטלבל) - תרגיל לגו, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקת זרועות Y - במכונה",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת זרועות Y (במכונה) - תרגיל לגו, רמת קושי קל."
+  },
+  {
+    "name_he": "סקוואט - עם משקולות יד",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "סקוואט (עם משקולות יד) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "סקוואט - עם מוט",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "סקוואט (עם מוט) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "סקוואט - בגומיית התנגדות",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "סקוואט (בגומיית התנגדות) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "סקוואט - עם קטלבל",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "סקוואט (עם קטלבל) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "סקוואט - במכונה",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "סקוואט (במכונה) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לאנג' - דו-צדדי",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "לאנג' (דו-צדדי) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "לאנג' - חד-צדדי - צד ימין",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לאנג' (חד-צדדי - צד ימין) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לאנג' - חד-צדדי - צד שמאל",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לאנג' (חד-צדדי - צד שמאל) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לאנג' - עם תמיכה בקיר/כיסא",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "לאנג' (עם תמיכה בקיר/כיסא) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "לאנג' - בעמידה לא יציבה (אתגר שיווי משקל)",
+    "muscle_group": "רגליים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לאנג' (בעמידה לא יציבה (אתגר שיווי משקל)) - תרגיל לרגליים, רמת קושי קשה."
+  },
+  {
+    "name_he": "מכרעים בולגרים - דו-צדדי",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "מכרעים בולגרים (דו-צדדי) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "מכרעים בולגרים - חד-צדדי - צד ימין",
+    "muscle_group": "רגליים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "מכרעים בולגרים (חד-צדדי - צד ימין) - תרגיל לרגליים, רמת קושי קשה."
+  },
+  {
+    "name_he": "מכרעים בולגרים - חד-צדדי - צד שמאל",
+    "muscle_group": "רגליים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "מכרעים בולגרים (חד-צדדי - צד שמאל) - תרגיל לרגליים, רמת קושי קשה."
+  },
+  {
+    "name_he": "מכרעים בולגרים - עם תמיכה בקיר/כיסא",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "מכרעים בולגרים (עם תמיכה בקיר/כיסא) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "מכרעים בולגרים - בעמידה לא יציבה (אתגר שיווי משקל)",
+    "muscle_group": "רגליים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "מכרעים בולגרים (בעמידה לא יציבה (אתגר שיווי משקל)) - תרגיל לרגליים, רמת קושי קשה."
+  },
+  {
+    "name_he": "הרמת אגן (גשר) - עם משקולות יד",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרמת אגן (גשר) (עם משקולות יד) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרמת אגן (גשר) - עם מוט",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרמת אגן (גשר) (עם מוט) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרמת אגן (גשר) - בגומיית התנגדות",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרמת אגן (גשר) (בגומיית התנגדות) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרמת אגן (גשר) - עם קטלבל",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרמת אגן (גשר) (עם קטלבל) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרמת אגן (גשר) - במכונה",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרמת אגן (גשר) (במכונה) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "עליות מדרגה - דו-צדדי",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "עליות מדרגה (דו-צדדי) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "עליות מדרגה - חד-צדדי - צד ימין",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "עליות מדרגה (חד-צדדי - צד ימין) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "עליות מדרגה - חד-צדדי - צד שמאל",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "עליות מדרגה (חד-צדדי - צד שמאל) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "עליות מדרגה - עם תמיכה בקיר/כיסא",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "עליות מדרגה (עם תמיכה בקיר/כיסא) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "עליות מדרגה - בעמידה לא יציבה (אתגר שיווי משקל)",
+    "muscle_group": "רגליים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "עליות מדרגה (בעמידה לא יציבה (אתגר שיווי משקל)) - תרגיל לרגליים, רמת קושי קשה."
+  },
+  {
+    "name_he": "פשיטת ברך במכונה - עם משקולות יד",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת ברך במכונה (עם משקולות יד) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פשיטת ברך במכונה - עם מוט",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת ברך במכונה (עם מוט) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פשיטת ברך במכונה - בגומיית התנגדות",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת ברך במכונה (בגומיית התנגדות) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פשיטת ברך במכונה - עם קטלבל",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת ברך במכונה (עם קטלבל) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פשיטת ברך במכונה - במכונה",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פשיטת ברך במכונה (במכונה) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "כפיפת ברך במכונה - עם משקולות יד",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפת ברך במכונה (עם משקולות יד) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "כפיפת ברך במכונה - עם מוט",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפת ברך במכונה (עם מוט) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "כפיפת ברך במכונה - בגומיית התנגדות",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפת ברך במכונה (בגומיית התנגדות) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "כפיפת ברך במכונה - עם קטלבל",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפת ברך במכונה (עם קטלבל) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "כפיפת ברך במכונה - במכונה",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפת ברך במכונה (במכונה) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת רגליים - עם משקולות יד",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת רגליים (עם משקולות יד) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת רגליים - עם מוט",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת רגליים (עם מוט) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת רגליים - בגומיית התנגדות",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת רגליים (בגומיית התנגדות) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת רגליים - עם קטלבל",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת רגליים (עם קטלבל) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת רגליים - במכונה",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת רגליים (במכונה) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "עליות עקב (שוקיים) - עם משקולות יד",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "עליות עקב (שוקיים) (עם משקולות יד) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "עליות עקב (שוקיים) - עם מוט",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "עליות עקב (שוקיים) (עם מוט) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "עליות עקב (שוקיים) - בגומיית התנגדות",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "עליות עקב (שוקיים) (בגומיית התנגדות) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "עליות עקב (שוקיים) - עם קטלבל",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "עליות עקב (שוקיים) (עם קטלבל) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "עליות עקב (שוקיים) - במכונה",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "עליות עקב (שוקיים) (במכונה) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "קפיצות סקוואט - קלאסי",
+    "muscle_group": "רגליים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "קפיצות סקוואט (קלאסי) - תרגיל לרגליים, רמת קושי קשה."
+  },
+  {
+    "name_he": "קפיצות סקוואט - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "קפיצות סקוואט (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "קפיצות סקוואט - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "רגליים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "קפיצות סקוואט (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לרגליים, רמת קושי קשה."
+  },
+  {
+    "name_he": "קפיצות סקוואט - בטמפו איטי ומבוקר",
+    "muscle_group": "רגליים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "קפיצות סקוואט (בטמפו איטי ומבוקר) - תרגיל לרגליים, רמת קושי קשה."
+  },
+  {
+    "name_he": "קפיצות סקוואט - עם הפסקה בשיא התנועה",
+    "muscle_group": "רגליים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "קפיצות סקוואט (עם הפסקה בשיא התנועה) - תרגיל לרגליים, רמת קושי קשה."
+  },
+  {
+    "name_he": "הליכה עם גומייה צידית - עם משקולות יד",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "הליכה עם גומייה צידית (עם משקולות יד) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הליכה עם גומייה צידית - עם מוט",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "הליכה עם גומייה צידית (עם מוט) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הליכה עם גומייה צידית - בגומיית התנגדות",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "הליכה עם גומייה צידית (בגומיית התנגדות) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הליכה עם גומייה צידית - עם קטלבל",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "הליכה עם גומייה צידית (עם קטלבל) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הליכה עם גומייה צידית - במכונה",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "הליכה עם גומייה צידית (במכונה) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "ישיבת קיר (Wall Sit) - קלאסי",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "ישיבת קיר (Wall Sit) (קלאסי) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "ישיבת קיר (Wall Sit) - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "ישיבת קיר (Wall Sit) (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "ישיבת קיר (Wall Sit) - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "רגליים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "ישיבת קיר (Wall Sit) (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לרגליים, רמת קושי קשה."
+  },
+  {
+    "name_he": "ישיבת קיר (Wall Sit) - בטמפו איטי ומבוקר",
+    "muscle_group": "רגליים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "ישיבת קיר (Wall Sit) (בטמפו איטי ומבוקר) - תרגיל לרגליים, רמת קושי קשה."
+  },
+  {
+    "name_he": "ישיבת קיר (Wall Sit) - עם הפסקה בשיא התנועה",
+    "muscle_group": "רגליים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "ישיבת קיר (Wall Sit) (עם הפסקה בשיא התנועה) - תרגיל לרגליים, רמת קושי קשה."
+  },
+  {
+    "name_he": "הרחקת ירך בגומייה - עם משקולות יד",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת ירך בגומייה (עם משקולות יד) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקת ירך בגומייה - עם מוט",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת ירך בגומייה (עם מוט) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקת ירך בגומייה - בגומיית התנגדות",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת ירך בגומייה (בגומיית התנגדות) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקת ירך בגומייה - עם קטלבל",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת ירך בגומייה (עם קטלבל) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "הרחקת ירך בגומייה - במכונה",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרחקת ירך בגומייה (במכונה) - תרגיל לרגליים, רמת קושי קל."
+  },
+  {
+    "name_he": "סומו סקוואט - עם משקולות יד",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "סומו סקוואט (עם משקולות יד) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "סומו סקוואט - עם מוט",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "סומו סקוואט (עם מוט) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "סומו סקוואט - בגומיית התנגדות",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "סומו סקוואט (בגומיית התנגדות) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "סומו סקוואט - עם קטלבל",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "סומו סקוואט (עם קטלבל) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "סומו סקוואט - במכונה",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "סומו סקוואט (במכונה) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "גשר רגל אחת - דו-צדדי",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "גשר רגל אחת (דו-צדדי) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "גשר רגל אחת - חד-צדדי - צד ימין",
+    "muscle_group": "רגליים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "גשר רגל אחת (חד-צדדי - צד ימין) - תרגיל לרגליים, רמת קושי קשה."
+  },
+  {
+    "name_he": "גשר רגל אחת - חד-צדדי - צד שמאל",
+    "muscle_group": "רגליים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "גשר רגל אחת (חד-צדדי - צד שמאל) - תרגיל לרגליים, רמת קושי קשה."
+  },
+  {
+    "name_he": "גשר רגל אחת - עם תמיכה בקיר/כיסא",
+    "muscle_group": "רגליים",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "גשר רגל אחת (עם תמיכה בקיר/כיסא) - תרגיל לרגליים, רמת קושי בינוני."
+  },
+  {
+    "name_he": "גשר רגל אחת - בעמידה לא יציבה (אתגר שיווי משקל)",
+    "muscle_group": "רגליים",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "גשר רגל אחת (בעמידה לא יציבה (אתגר שיווי משקל)) - תרגיל לרגליים, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה - קלאסי",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "שכיבות סמיכה (קלאסי) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "שכיבות סמיכה - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "שכיבות סמיכה (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לחזה, רמת קושי קל."
+  },
+  {
+    "name_he": "שכיבות סמיכה - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה - בטמפו איטי ומבוקר",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה (בטמפו איטי ומבוקר) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה - עם הפסקה בשיא התנועה",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה (עם הפסקה בשיא התנועה) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "לחיצת חזה בשכיבה - עם משקולות יד",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת חזה בשכיבה (עם משקולות יד) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת חזה בשכיבה - עם מוט",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת חזה בשכיבה (עם מוט) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת חזה בשכיבה - בגומיית התנגדות",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת חזה בשכיבה (בגומיית התנגדות) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת חזה בשכיבה - עם קטלבל",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת חזה בשכיבה (עם קטלבל) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת חזה בשכיבה - במכונה",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת חזה בשכיבה (במכונה) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת חזה בשיפוע - עם משקולות יד",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת חזה בשיפוע (עם משקולות יד) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת חזה בשיפוע - עם מוט",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת חזה בשיפוע (עם מוט) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת חזה בשיפוע - בגומיית התנגדות",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת חזה בשיפוע (בגומיית התנגדות) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת חזה בשיפוע - עם קטלבל",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת חזה בשיפוע (עם קטלבל) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת חזה בשיפוע - במכונה",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת חזה בשיפוע (במכונה) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פרפר (Chest Fly) - עם משקולות יד",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר (Chest Fly) (עם משקולות יד) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פרפר (Chest Fly) - עם מוט",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר (Chest Fly) (עם מוט) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פרפר (Chest Fly) - בגומיית התנגדות",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר (Chest Fly) (בגומיית התנגדות) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פרפר (Chest Fly) - עם קטלבל",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר (Chest Fly) (עם קטלבל) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פרפר (Chest Fly) - במכונה",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר (Chest Fly) (במכונה) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת חזה בעמידה - עם משקולות יד",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת חזה בעמידה (עם משקולות יד) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "לחיצת חזה בעמידה - עם מוט",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת חזה בעמידה (עם מוט) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "לחיצת חזה בעמידה - בגומיית התנגדות",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת חזה בעמידה (בגומיית התנגדות) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "לחיצת חזה בעמידה - עם קטלבל",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת חזה בעמידה (עם קטלבל) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "לחיצת חזה בעמידה - במכונה",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת חזה בעמידה (במכונה) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "מקבילים לחזה (Dips) - קלאסי",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "מקבילים לחזה (Dips) (קלאסי) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "מקבילים לחזה (Dips) - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "מקבילים לחזה (Dips) (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "מקבילים לחזה (Dips) - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "מקבילים לחזה (Dips) (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "מקבילים לחזה (Dips) - בטמפו איטי ומבוקר",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "מקבילים לחזה (Dips) (בטמפו איטי ומבוקר) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "מקבילים לחזה (Dips) - עם הפסקה בשיא התנועה",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "מקבילים לחזה (Dips) (עם הפסקה בשיא התנועה) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה רחבות - קלאסי",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "שכיבות סמיכה רחבות (קלאסי) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "שכיבות סמיכה רחבות - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "שכיבות סמיכה רחבות (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לחזה, רמת קושי קל."
+  },
+  {
+    "name_he": "שכיבות סמיכה רחבות - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה רחבות (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה רחבות - בטמפו איטי ומבוקר",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה רחבות (בטמפו איטי ומבוקר) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה רחבות - עם הפסקה בשיא התנועה",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה רחבות (עם הפסקה בשיא התנועה) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה צרות - קלאסי",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה צרות (קלאסי) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה צרות - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "שכיבות סמיכה צרות (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "שכיבות סמיכה צרות - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה צרות (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה צרות - בטמפו איטי ומבוקר",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה צרות (בטמפו איטי ומבוקר) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה צרות - עם הפסקה בשיא התנועה",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה צרות (עם הפסקה בשיא התנועה) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה עם רגליים מוגבהות - קלאסי",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה עם רגליים מוגבהות (קלאסי) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה עם רגליים מוגבהות - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "שכיבות סמיכה עם רגליים מוגבהות (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "שכיבות סמיכה עם רגליים מוגבהות - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה עם רגליים מוגבהות (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה עם רגליים מוגבהות - בטמפו איטי ומבוקר",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה עם רגליים מוגבהות (בטמפו איטי ומבוקר) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה עם רגליים מוגבהות - עם הפסקה בשיא התנועה",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה עם רגליים מוגבהות (עם הפסקה בשיא התנועה) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "פרפר בכבלים - עם משקולות יד",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר בכבלים (עם משקולות יד) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פרפר בכבלים - עם מוט",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר בכבלים (עם מוט) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פרפר בכבלים - בגומיית התנגדות",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר בכבלים (בגומיית התנגדות) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פרפר בכבלים - עם קטלבל",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר בכבלים (עם קטלבל) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פרפר בכבלים - במכונה",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר בכבלים (במכונה) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פולאובר לחזה - עם משקולות יד",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פולאובר לחזה (עם משקולות יד) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פולאובר לחזה - עם מוט",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פולאובר לחזה (עם מוט) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פולאובר לחזה - בגומיית התנגדות",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פולאובר לחזה (בגומיית התנגדות) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פולאובר לחזה - עם קטלבל",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פולאובר לחזה (עם קטלבל) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פולאובר לחזה - במכונה",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פולאובר לחזה (במכונה) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת חזה חד-ידנית - דו-צדדי",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת חזה חד-ידנית (דו-צדדי) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת חזה חד-ידנית - חד-צדדי - צד ימין",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת חזה חד-ידנית (חד-צדדי - צד ימין) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "לחיצת חזה חד-ידנית - חד-צדדי - צד שמאל",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת חזה חד-ידנית (חד-צדדי - צד שמאל) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "לחיצת חזה חד-ידנית - עם תמיכה בקיר/כיסא",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "לחיצת חזה חד-ידנית (עם תמיכה בקיר/כיסא) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "לחיצת חזה חד-ידנית - בעמידה לא יציבה (אתגר שיווי משקל)",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "לחיצת חזה חד-ידנית (בעמידה לא יציבה (אתגר שיווי משקל)) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה בטמפו איטי - קלאסי",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "שכיבות סמיכה בטמפו איטי (קלאסי) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "שכיבות סמיכה בטמפו איטי - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "שכיבות סמיכה בטמפו איטי (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לחזה, רמת קושי קל."
+  },
+  {
+    "name_he": "שכיבות סמיכה בטמפו איטי - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה בטמפו איטי (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה בטמפו איטי - בטמפו איטי ומבוקר",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה בטמפו איטי (בטמפו איטי ומבוקר) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "שכיבות סמיכה בטמפו איטי - עם הפסקה בשיא התנועה",
+    "muscle_group": "חזה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "שכיבות סמיכה בטמפו איטי (עם הפסקה בשיא התנועה) - תרגיל לחזה, רמת קושי קשה."
+  },
+  {
+    "name_he": "פרפר בעמידה בגומייה - עם משקולות יד",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר בעמידה בגומייה (עם משקולות יד) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פרפר בעמידה בגומייה - עם מוט",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר בעמידה בגומייה (עם מוט) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פרפר בעמידה בגומייה - בגומיית התנגדות",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר בעמידה בגומייה (בגומיית התנגדות) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פרפר בעמידה בגומייה - עם קטלבל",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר בעמידה בגומייה (עם קטלבל) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פרפר בעמידה בגומייה - במכונה",
+    "muscle_group": "חזה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פרפר בעמידה בגומייה (במכונה) - תרגיל לחזה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פלאנק - קלאסי",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "פלאנק (קלאסי) - תרגיל לליבה, רמת קושי קל."
+  },
+  {
+    "name_he": "פלאנק - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "פלאנק (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לליבה, רמת קושי קל."
+  },
+  {
+    "name_he": "פלאנק - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פלאנק (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פלאנק - בטמפו איטי ומבוקר",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פלאנק (בטמפו איטי ומבוקר) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פלאנק - עם הפסקה בשיא התנועה",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פלאנק (עם הפסקה בשיא התנועה) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פלאנק צידי - קלאסי",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פלאנק צידי (קלאסי) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פלאנק צידי - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "פלאנק צידי (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לליבה, רמת קושי קל."
+  },
+  {
+    "name_he": "פלאנק צידי - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "פלאנק צידי (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "פלאנק צידי - בטמפו איטי ומבוקר",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "פלאנק צידי (בטמפו איטי ומבוקר) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "פלאנק צידי - עם הפסקה בשיא התנועה",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "פלאנק צידי (עם הפסקה בשיא התנועה) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "כפיפות בטן - קלאסי",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפות בטן (קלאסי) - תרגיל לליבה, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפות בטן - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפות בטן (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לליבה, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפות בטן - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפות בטן (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "כפיפות בטן - בטמפו איטי ומבוקר",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפות בטן (בטמפו איטי ומבוקר) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "כפיפות בטן - עם הפסקה בשיא התנועה",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפות בטן (עם הפסקה בשיא התנועה) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "מכרעי אופניים (Bicycle Crunch) - קלאסי",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "מכרעי אופניים (Bicycle Crunch) (קלאסי) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "מכרעי אופניים (Bicycle Crunch) - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "מכרעי אופניים (Bicycle Crunch) (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לליבה, רמת קושי קל."
+  },
+  {
+    "name_he": "מכרעי אופניים (Bicycle Crunch) - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "מכרעי אופניים (Bicycle Crunch) (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "מכרעי אופניים (Bicycle Crunch) - בטמפו איטי ומבוקר",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "מכרעי אופניים (Bicycle Crunch) (בטמפו איטי ומבוקר) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "מכרעי אופניים (Bicycle Crunch) - עם הפסקה בשיא התנועה",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "מכרעי אופניים (Bicycle Crunch) (עם הפסקה בשיא התנועה) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "הרמות רגליים בשכיבה - קלאסי",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "הרמות רגליים בשכיבה (קלאסי) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הרמות רגליים בשכיבה - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרמות רגליים בשכיבה (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לליבה, רמת קושי קל."
+  },
+  {
+    "name_he": "הרמות רגליים בשכיבה - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "הרמות רגליים בשכיבה (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "הרמות רגליים בשכיבה - בטמפו איטי ומבוקר",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "הרמות רגליים בשכיבה (בטמפו איטי ומבוקר) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "הרמות רגליים בשכיבה - עם הפסקה בשיא התנועה",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "הרמות רגליים בשכיבה (עם הפסקה בשיא התנועה) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "סיבובי מותניים (Russian Twist) - קלאסי",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "סיבובי מותניים (Russian Twist) (קלאסי) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "סיבובי מותניים (Russian Twist) - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "סיבובי מותניים (Russian Twist) (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לליבה, רמת קושי קל."
+  },
+  {
+    "name_he": "סיבובי מותניים (Russian Twist) - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "סיבובי מותניים (Russian Twist) (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "סיבובי מותניים (Russian Twist) - בטמפו איטי ומבוקר",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "סיבובי מותניים (Russian Twist) (בטמפו איטי ומבוקר) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "סיבובי מותניים (Russian Twist) - עם הפסקה בשיא התנועה",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "סיבובי מותניים (Russian Twist) (עם הפסקה בשיא התנועה) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "החזקת גוף חלול (Hollow Hold) - קלאסי",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "החזקת גוף חלול (Hollow Hold) (קלאסי) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "החזקת גוף חלול (Hollow Hold) - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "החזקת גוף חלול (Hollow Hold) (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "החזקת גוף חלול (Hollow Hold) - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "החזקת גוף חלול (Hollow Hold) (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "החזקת גוף חלול (Hollow Hold) - בטמפו איטי ומבוקר",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "החזקת גוף חלול (Hollow Hold) (בטמפו איטי ומבוקר) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "החזקת גוף חלול (Hollow Hold) - עם הפסקה בשיא התנועה",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "החזקת גוף חלול (Hollow Hold) (עם הפסקה בשיא התנועה) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "Dead Bug - קלאסי",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "Dead Bug (קלאסי) - תרגיל לליבה, רמת קושי קל."
+  },
+  {
+    "name_he": "Dead Bug - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "Dead Bug (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לליבה, רמת קושי קל."
+  },
+  {
+    "name_he": "Dead Bug - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "Dead Bug (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "Dead Bug - בטמפו איטי ומבוקר",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "Dead Bug (בטמפו איטי ומבוקר) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "Dead Bug - עם הפסקה בשיא התנועה",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "Dead Bug (עם הפסקה בשיא התנועה) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "Bird Dog - קלאסי",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "Bird Dog (קלאסי) - תרגיל לליבה, רמת קושי קל."
+  },
+  {
+    "name_he": "Bird Dog - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "Bird Dog (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לליבה, רמת קושי קל."
+  },
+  {
+    "name_he": "Bird Dog - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "Bird Dog (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "Bird Dog - בטמפו איטי ומבוקר",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "Bird Dog (בטמפו איטי ומבוקר) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "Bird Dog - עם הפסקה בשיא התנועה",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "Bird Dog (עם הפסקה בשיא התנועה) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "V-Up - קלאסי",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "V-Up (קלאסי) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "V-Up - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "V-Up (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "V-Up - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "V-Up (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "V-Up - בטמפו איטי ומבוקר",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "V-Up (בטמפו איטי ומבוקר) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "V-Up - עם הפסקה בשיא התנועה",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "V-Up (עם הפסקה בשיא התנועה) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "פלאנק עם הרמת יד/רגל - קלאסי",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "פלאנק עם הרמת יד/רגל (קלאסי) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "פלאנק עם הרמת יד/רגל - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פלאנק עם הרמת יד/רגל (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פלאנק עם הרמת יד/רגל - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "פלאנק עם הרמת יד/רגל (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "פלאנק עם הרמת יד/רגל - בטמפו איטי ומבוקר",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "פלאנק עם הרמת יד/רגל (בטמפו איטי ומבוקר) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "פלאנק עם הרמת יד/רגל - עם הפסקה בשיא התנועה",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "פלאנק עם הרמת יד/רגל (עם הפסקה בשיא התנועה) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "כפיפות בטן אלכסוניות - קלאסי",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "כפיפות בטן אלכסוניות (קלאסי) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "כפיפות בטן אלכסוניות - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "כפיפות בטן אלכסוניות (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לליבה, רמת קושי קל."
+  },
+  {
+    "name_he": "כפיפות בטן אלכסוניות - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "כפיפות בטן אלכסוניות (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "כפיפות בטן אלכסוניות - בטמפו איטי ומבוקר",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "כפיפות בטן אלכסוניות (בטמפו איטי ומבוקר) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "כפיפות בטן אלכסוניות - עם הפסקה בשיא התנועה",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "כפיפות בטן אלכסוניות (עם הפסקה בשיא התנועה) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "הרים מטפס לליבה (Mountain Climbers) - קלאסי",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "הרים מטפס לליבה (Mountain Climbers) (קלאסי) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הרים מטפס לליבה (Mountain Climbers) - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרים מטפס לליבה (Mountain Climbers) (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לליבה, רמת קושי קל."
+  },
+  {
+    "name_he": "הרים מטפס לליבה (Mountain Climbers) - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "הרים מטפס לליבה (Mountain Climbers) (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "הרים מטפס לליבה (Mountain Climbers) - בטמפו איטי ומבוקר",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "הרים מטפס לליבה (Mountain Climbers) (בטמפו איטי ומבוקר) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "הרים מטפס לליבה (Mountain Climbers) - עם הפסקה בשיא התנועה",
+    "muscle_group": "ליבה",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "הרים מטפס לליבה (Mountain Climbers) (עם הפסקה בשיא התנועה) - תרגיל לליבה, רמת קושי קשה."
+  },
+  {
+    "name_he": "גשר עם כיווץ בטן עליון - קלאסי",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "גשר עם כיווץ בטן עליון (קלאסי) - תרגיל לליבה, רמת קושי קל."
+  },
+  {
+    "name_he": "גשר עם כיווץ בטן עליון - גרסה מקלה (טווח/עומס מופחת)",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "גשר עם כיווץ בטן עליון (גרסה מקלה (טווח/עומס מופחת)) - תרגיל לליבה, רמת קושי קל."
+  },
+  {
+    "name_he": "גשר עם כיווץ בטן עליון - גרסה מאתגרת (טווח/קצב מוגבר)",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "גשר עם כיווץ בטן עליון (גרסה מאתגרת (טווח/קצב מוגבר)) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "גשר עם כיווץ בטן עליון - בטמפו איטי ומבוקר",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "גשר עם כיווץ בטן עליון (בטמפו איטי ומבוקר) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "גשר עם כיווץ בטן עליון - עם הפסקה בשיא התנועה",
+    "muscle_group": "ליבה",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "גשר עם כיווץ בטן עליון (עם הפסקה בשיא התנועה) - תרגיל לליבה, רמת קושי בינוני."
+  },
+  {
+    "name_he": "ריצה במקום - בקצב נמוך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "ריצה במקום (בקצב נמוך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "ריצה במקום - בקצב בינוני",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "ריצה במקום (בקצב בינוני) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "ריצה במקום - בקצב גבוה (אינטרוולים)",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "ריצה במקום (בקצב גבוה (אינטרוולים)) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "ריצה במקום - בוריאציית תנועת זרועות",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "ריצה במקום (בוריאציית תנועת זרועות) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "ריצה במקום - עם קפיצה נוספת",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "ריצה במקום (עם קפיצה נוספת) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "ריצה במקום - לפרק זמן ממושך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "ריצה במקום (לפרק זמן ממושך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "קפיצות פיסוק - בקצב נמוך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "קפיצות פיסוק (בקצב נמוך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "קפיצות פיסוק - בקצב בינוני",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "קפיצות פיסוק (בקצב בינוני) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "קפיצות פיסוק - בקצב גבוה (אינטרוולים)",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "קפיצות פיסוק (בקצב גבוה (אינטרוולים)) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "קפיצות פיסוק - בוריאציית תנועת זרועות",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "קפיצות פיסוק (בוריאציית תנועת זרועות) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "קפיצות פיסוק - עם קפיצה נוספת",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "קפיצות פיסוק (עם קפיצה נוספת) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "קפיצות פיסוק - לפרק זמן ממושך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "קפיצות פיסוק (לפרק זמן ממושך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "עליות ברכיים למקום - בקצב נמוך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "עליות ברכיים למקום (בקצב נמוך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "עליות ברכיים למקום - בקצב בינוני",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "עליות ברכיים למקום (בקצב בינוני) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "עליות ברכיים למקום - בקצב גבוה (אינטרוולים)",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "חימום",
+    "default_duration_seconds": 55,
+    "description": "עליות ברכיים למקום (בקצב גבוה (אינטרוולים)) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "עליות ברכיים למקום - בוריאציית תנועת זרועות",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "עליות ברכיים למקום (בוריאציית תנועת זרועות) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "עליות ברכיים למקום - עם קפיצה נוספת",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "חימום",
+    "default_duration_seconds": 55,
+    "description": "עליות ברכיים למקום (עם קפיצה נוספת) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "עליות ברכיים למקום - לפרק זמן ממושך",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "עליות ברכיים למקום (לפרק זמן ממושך) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "בעיטות עכוז אחורה - בקצב נמוך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "בעיטות עכוז אחורה (בקצב נמוך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "בעיטות עכוז אחורה - בקצב בינוני",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "בעיטות עכוז אחורה (בקצב בינוני) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "בעיטות עכוז אחורה - בקצב גבוה (אינטרוולים)",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "בעיטות עכוז אחורה (בקצב גבוה (אינטרוולים)) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "בעיטות עכוז אחורה - בוריאציית תנועת זרועות",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "בעיטות עכוז אחורה (בוריאציית תנועת זרועות) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "בעיטות עכוז אחורה - עם קפיצה נוספת",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "בעיטות עכוז אחורה (עם קפיצה נוספת) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "בעיטות עכוז אחורה - לפרק זמן ממושך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "בעיטות עכוז אחורה (לפרק זמן ממושך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "סיבובי זרועות וכתפיים - בקצב נמוך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "סיבובי זרועות וכתפיים (בקצב נמוך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "סיבובי זרועות וכתפיים - בקצב בינוני",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "סיבובי זרועות וכתפיים (בקצב בינוני) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "סיבובי זרועות וכתפיים - בקצב גבוה (אינטרוולים)",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "סיבובי זרועות וכתפיים (בקצב גבוה (אינטרוולים)) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "סיבובי זרועות וכתפיים - בוריאציית תנועת זרועות",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "סיבובי זרועות וכתפיים (בוריאציית תנועת זרועות) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "סיבובי זרועות וכתפיים - עם קפיצה נוספת",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "סיבובי זרועות וכתפיים (עם קפיצה נוספת) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "סיבובי זרועות וכתפיים - לפרק זמן ממושך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "סיבובי זרועות וכתפיים (לפרק זמן ממושך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "סיבובי מפרק ירך - בקצב נמוך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "סיבובי מפרק ירך (בקצב נמוך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "סיבובי מפרק ירך - בקצב בינוני",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "סיבובי מפרק ירך (בקצב בינוני) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "סיבובי מפרק ירך - בקצב גבוה (אינטרוולים)",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "סיבובי מפרק ירך (בקצב גבוה (אינטרוולים)) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "סיבובי מפרק ירך - בוריאציית תנועת זרועות",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "סיבובי מפרק ירך (בוריאציית תנועת זרועות) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "סיבובי מפרק ירך - עם קפיצה נוספת",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "סיבובי מפרק ירך (עם קפיצה נוספת) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "סיבובי מפרק ירך - לפרק זמן ממושך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "סיבובי מפרק ירך (לפרק זמן ממושך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "מעגלי קרסול - בקצב נמוך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "מעגלי קרסול (בקצב נמוך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "מעגלי קרסול - בקצב בינוני",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "מעגלי קרסול (בקצב בינוני) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "מעגלי קרסול - בקצב גבוה (אינטרוולים)",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "מעגלי קרסול (בקצב גבוה (אינטרוולים)) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "מעגלי קרסול - בוריאציית תנועת זרועות",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "מעגלי קרסול (בוריאציית תנועת זרועות) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "מעגלי קרסול - עם קפיצה נוספת",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "מעגלי קרסול (עם קפיצה נוספת) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "מעגלי קרסול - לפרק זמן ממושך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "מעגלי קרסול (לפרק זמן ממושך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "הליכה מהירה במקום - בקצב נמוך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "הליכה מהירה במקום (בקצב נמוך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "הליכה מהירה במקום - בקצב בינוני",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "הליכה מהירה במקום (בקצב בינוני) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "הליכה מהירה במקום - בקצב גבוה (אינטרוולים)",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "הליכה מהירה במקום (בקצב גבוה (אינטרוולים)) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הליכה מהירה במקום - בוריאציית תנועת זרועות",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "הליכה מהירה במקום (בוריאציית תנועת זרועות) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "הליכה מהירה במקום - עם קפיצה נוספת",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "הליכה מהירה במקום (עם קפיצה נוספת) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הליכה מהירה במקום - לפרק זמן ממושך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "הליכה מהירה במקום (לפרק זמן ממושך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "צעד-גע (Step Touch) - בקצב נמוך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "צעד-גע (Step Touch) (בקצב נמוך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "צעד-גע (Step Touch) - בקצב בינוני",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "צעד-גע (Step Touch) (בקצב בינוני) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "צעד-גע (Step Touch) - בקצב גבוה (אינטרוולים)",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "צעד-גע (Step Touch) (בקצב גבוה (אינטרוולים)) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "צעד-גע (Step Touch) - בוריאציית תנועת זרועות",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "צעד-גע (Step Touch) (בוריאציית תנועת זרועות) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "צעד-גע (Step Touch) - עם קפיצה נוספת",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "צעד-גע (Step Touch) (עם קפיצה נוספת) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "צעד-גע (Step Touch) - לפרק זמן ממושך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "צעד-גע (Step Touch) (לפרק זמן ממושך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "הרמת ברכיים קלילה - בקצב נמוך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "הרמת ברכיים קלילה (בקצב נמוך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "הרמת ברכיים קלילה - בקצב בינוני",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "הרמת ברכיים קלילה (בקצב בינוני) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הרמת ברכיים קלילה - בקצב גבוה (אינטרוולים)",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "חימום",
+    "default_duration_seconds": 55,
+    "description": "הרמת ברכיים קלילה (בקצב גבוה (אינטרוולים)) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "הרמת ברכיים קלילה - בוריאציית תנועת זרועות",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "הרמת ברכיים קלילה (בוריאציית תנועת זרועות) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הרמת ברכיים קלילה - עם קפיצה נוספת",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "חימום",
+    "default_duration_seconds": 55,
+    "description": "הרמת ברכיים קלילה (עם קפיצה נוספת) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "הרמת ברכיים קלילה - לפרק זמן ממושך",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "הרמת ברכיים קלילה (לפרק זמן ממושך) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "איגרוף דמיוני קליל (Shadow Boxing) - בקצב נמוך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "חימום",
+    "default_duration_seconds": 35,
+    "description": "איגרוף דמיוני קליל (Shadow Boxing) (בקצב נמוך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "איגרוף דמיוני קליל (Shadow Boxing) - בקצב בינוני",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "איגרוף דמיוני קליל (Shadow Boxing) (בקצב בינוני) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "איגרוף דמיוני קליל (Shadow Boxing) - בקצב גבוה (אינטרוולים)",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "חימום",
+    "default_duration_seconds": 55,
+    "description": "איגרוף דמיוני קליל (Shadow Boxing) (בקצב גבוה (אינטרוולים)) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "איגרוף דמיוני קליל (Shadow Boxing) - בוריאציית תנועת זרועות",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "איגרוף דמיוני קליל (Shadow Boxing) (בוריאציית תנועת זרועות) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "איגרוף דמיוני קליל (Shadow Boxing) - עם קפיצה נוספת",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "חימום",
+    "default_duration_seconds": 55,
+    "description": "איגרוף דמיוני קליל (Shadow Boxing) (עם קפיצה נוספת) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "איגרוף דמיוני קליל (Shadow Boxing) - לפרק זמן ממושך",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "חימום",
+    "default_duration_seconds": 45,
+    "description": "איגרוף דמיוני קליל (Shadow Boxing) (לפרק זמן ממושך) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "בורפי - בקצב נמוך",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "בורפי (בקצב נמוך) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "בורפי - בקצב בינוני",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "בורפי (בקצב בינוני) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "בורפי - בקצב גבוה (אינטרוולים)",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "בורפי (בקצב גבוה (אינטרוולים)) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "בורפי - בוריאציית תנועת זרועות",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "בורפי (בוריאציית תנועת זרועות) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "בורפי - עם קפיצה נוספת",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "בורפי (עם קפיצה נוספת) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "בורפי - לפרק זמן ממושך",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "בורפי (לפרק זמן ממושך) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "חבל דילוג - בקצב נמוך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "חבל דילוג (בקצב נמוך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "חבל דילוג - בקצב בינוני",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חבל דילוג (בקצב בינוני) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "חבל דילוג - בקצב גבוה (אינטרוולים)",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "חבל דילוג (בקצב גבוה (אינטרוולים)) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "חבל דילוג - בוריאציית תנועת זרועות",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חבל דילוג (בוריאציית תנועת זרועות) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "חבל דילוג - עם קפיצה נוספת",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "חבל דילוג (עם קפיצה נוספת) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "חבל דילוג - לפרק זמן ממושך",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "חבל דילוג (לפרק זמן ממושך) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הרים מטפס (Mountain Climbers) - בקצב נמוך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "הרים מטפס (Mountain Climbers) (בקצב נמוך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "הרים מטפס (Mountain Climbers) - בקצב בינוני",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "הרים מטפס (Mountain Climbers) (בקצב בינוני) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הרים מטפס (Mountain Climbers) - בקצב גבוה (אינטרוולים)",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "הרים מטפס (Mountain Climbers) (בקצב גבוה (אינטרוולים)) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "הרים מטפס (Mountain Climbers) - בוריאציית תנועת זרועות",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "הרים מטפס (Mountain Climbers) (בוריאציית תנועת זרועות) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "הרים מטפס (Mountain Climbers) - עם קפיצה נוספת",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "הרים מטפס (Mountain Climbers) (עם קפיצה נוספת) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "הרים מטפס (Mountain Climbers) - לפרק זמן ממושך",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "הרים מטפס (Mountain Climbers) (לפרק זמן ממושך) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "קפיצות החלקה (Skater Jumps) - בקצב נמוך",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "קפיצות החלקה (Skater Jumps) (בקצב נמוך) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "קפיצות החלקה (Skater Jumps) - בקצב בינוני",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "קפיצות החלקה (Skater Jumps) (בקצב בינוני) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "קפיצות החלקה (Skater Jumps) - בקצב גבוה (אינטרוולים)",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "קפיצות החלקה (Skater Jumps) (בקצב גבוה (אינטרוולים)) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "קפיצות החלקה (Skater Jumps) - בוריאציית תנועת זרועות",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "קפיצות החלקה (Skater Jumps) (בוריאציית תנועת זרועות) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "קפיצות החלקה (Skater Jumps) - עם קפיצה נוספת",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "קפיצות החלקה (Skater Jumps) (עם קפיצה נוספת) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "קפיצות החלקה (Skater Jumps) - לפרק זמן ממושך",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "קפיצות החלקה (Skater Jumps) (לפרק זמן ממושך) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "פלאנק עם קפיצות רגליים (Plank Jacks) - בקצב נמוך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "פלאנק עם קפיצות רגליים (Plank Jacks) (בקצב נמוך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "פלאנק עם קפיצות רגליים (Plank Jacks) - בקצב בינוני",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פלאנק עם קפיצות רגליים (Plank Jacks) (בקצב בינוני) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פלאנק עם קפיצות רגליים (Plank Jacks) - בקצב גבוה (אינטרוולים)",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "פלאנק עם קפיצות רגליים (Plank Jacks) (בקצב גבוה (אינטרוולים)) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "פלאנק עם קפיצות רגליים (Plank Jacks) - בוריאציית תנועת זרועות",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פלאנק עם קפיצות רגליים (Plank Jacks) (בוריאציית תנועת זרועות) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "פלאנק עם קפיצות רגליים (Plank Jacks) - עם קפיצה נוספת",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "פלאנק עם קפיצות רגליים (Plank Jacks) (עם קפיצה נוספת) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "פלאנק עם קפיצות רגליים (Plank Jacks) - לפרק זמן ממושך",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "פלאנק עם קפיצות רגליים (Plank Jacks) (לפרק זמן ממושך) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "משיכת ברכיים לחזה בקפיצה (Tuck Jump) - בקצב נמוך",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "משיכת ברכיים לחזה בקפיצה (Tuck Jump) (בקצב נמוך) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "משיכת ברכיים לחזה בקפיצה (Tuck Jump) - בקצב בינוני",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "משיכת ברכיים לחזה בקפיצה (Tuck Jump) (בקצב בינוני) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "משיכת ברכיים לחזה בקפיצה (Tuck Jump) - בקצב גבוה (אינטרוולים)",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "משיכת ברכיים לחזה בקפיצה (Tuck Jump) (בקצב גבוה (אינטרוולים)) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "משיכת ברכיים לחזה בקפיצה (Tuck Jump) - בוריאציית תנועת זרועות",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "משיכת ברכיים לחזה בקפיצה (Tuck Jump) (בוריאציית תנועת זרועות) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "משיכת ברכיים לחזה בקפיצה (Tuck Jump) - עם קפיצה נוספת",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "משיכת ברכיים לחזה בקפיצה (Tuck Jump) (עם קפיצה נוספת) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "משיכת ברכיים לחזה בקפיצה (Tuck Jump) - לפרק זמן ממושך",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "משיכת ברכיים לחזה בקפיצה (Tuck Jump) (לפרק זמן ממושך) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "קפיצות סקוואט פיסוק (Squat Jacks) - בקצב נמוך",
+    "muscle_group": "אירובי",
+    "difficulty": "קל",
+    "phase": "מרכזי",
+    "default_duration_seconds": 35,
+    "description": "קפיצות סקוואט פיסוק (Squat Jacks) (בקצב נמוך) - תרגיל לאירובי, רמת קושי קל."
+  },
+  {
+    "name_he": "קפיצות סקוואט פיסוק (Squat Jacks) - בקצב בינוני",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "קפיצות סקוואט פיסוק (Squat Jacks) (בקצב בינוני) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "קפיצות סקוואט פיסוק (Squat Jacks) - בקצב גבוה (אינטרוולים)",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "קפיצות סקוואט פיסוק (Squat Jacks) (בקצב גבוה (אינטרוולים)) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "קפיצות סקוואט פיסוק (Squat Jacks) - בוריאציית תנועת זרועות",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "קפיצות סקוואט פיסוק (Squat Jacks) (בוריאציית תנועת זרועות) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "קפיצות סקוואט פיסוק (Squat Jacks) - עם קפיצה נוספת",
+    "muscle_group": "אירובי",
+    "difficulty": "קשה",
+    "phase": "מרכזי",
+    "default_duration_seconds": 55,
+    "description": "קפיצות סקוואט פיסוק (Squat Jacks) (עם קפיצה נוספת) - תרגיל לאירובי, רמת קושי קשה."
+  },
+  {
+    "name_he": "קפיצות סקוואט פיסוק (Squat Jacks) - לפרק זמן ממושך",
+    "muscle_group": "אירובי",
+    "difficulty": "בינוני",
+    "phase": "מרכזי",
+    "default_duration_seconds": 45,
+    "description": "קפיצות סקוואט פיסוק (Squat Jacks) (לפרק זמן ממושך) - תרגיל לאירובי, רמת קושי בינוני."
+  },
+  {
+    "name_he": "מתיחת גב תחתון (Child's Pose) - מתיחה סטטית 20 שניות",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת גב תחתון (Child's Pose) (מתיחה סטטית 20 שניות) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת גב תחתון (Child's Pose) - מתיחה סטטית 30 שניות",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת גב תחתון (Child's Pose) (מתיחה סטטית 30 שניות) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת גב תחתון (Child's Pose) - מתיחה דינמית",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת גב תחתון (Child's Pose) (מתיחה דינמית) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת גב תחתון (Child's Pose) - מתיחה עם רצועה/גומייה",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת גב תחתון (Child's Pose) (מתיחה עם רצועה/גומייה) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת גב תחתון (Child's Pose) - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת גב תחתון (Child's Pose) (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת מותן צידית בישיבה - מתיחה סטטית 20 שניות",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת מותן צידית בישיבה (מתיחה סטטית 20 שניות) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת מותן צידית בישיבה - מתיחה סטטית 30 שניות",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת מותן צידית בישיבה (מתיחה סטטית 30 שניות) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת מותן צידית בישיבה - מתיחה דינמית",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת מותן צידית בישיבה (מתיחה דינמית) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת מותן צידית בישיבה - מתיחה עם רצועה/גומייה",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת מותן צידית בישיבה (מתיחה עם רצועה/גומייה) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת מותן צידית בישיבה - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת מותן צידית בישיבה (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת פלג גוף עליון בישיבה - מתיחה סטטית 20 שניות",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת פלג גוף עליון בישיבה (מתיחה סטטית 20 שניות) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת פלג גוף עליון בישיבה - מתיחה סטטית 30 שניות",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת פלג גוף עליון בישיבה (מתיחה סטטית 30 שניות) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת פלג גוף עליון בישיבה - מתיחה דינמית",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת פלג גוף עליון בישיבה (מתיחה דינמית) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת פלג גוף עליון בישיבה - מתיחה עם רצועה/גומייה",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת פלג גוף עליון בישיבה (מתיחה עם רצועה/גומייה) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת פלג גוף עליון בישיבה - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת פלג גוף עליון בישיבה (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת גב עליון (Cat-Cow) - מתיחה סטטית 20 שניות",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת גב עליון (Cat-Cow) (מתיחה סטטית 20 שניות) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת גב עליון (Cat-Cow) - מתיחה סטטית 30 שניות",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת גב עליון (Cat-Cow) (מתיחה סטטית 30 שניות) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת גב עליון (Cat-Cow) - מתיחה דינמית",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת גב עליון (Cat-Cow) (מתיחה דינמית) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת גב עליון (Cat-Cow) - מתיחה עם רצועה/גומייה",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת גב עליון (Cat-Cow) (מתיחה עם רצועה/גומייה) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת גב עליון (Cat-Cow) - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת גב עליון (Cat-Cow) (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת רחב גבי בעמידה - מתיחה סטטית 20 שניות",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת רחב גבי בעמידה (מתיחה סטטית 20 שניות) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת רחב גבי בעמידה - מתיחה סטטית 30 שניות",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת רחב גבי בעמידה (מתיחה סטטית 30 שניות) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת רחב גבי בעמידה - מתיחה דינמית",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת רחב גבי בעמידה (מתיחה דינמית) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת רחב גבי בעמידה - מתיחה עם רצועה/גומייה",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת רחב גבי בעמידה (מתיחה עם רצועה/גומייה) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת רחב גבי בעמידה - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "גו",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת רחב גבי בעמידה (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לגו."
+  },
+  {
+    "name_he": "מתיחת המסטרינגס בישיבה - מתיחה סטטית 20 שניות",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת המסטרינגס בישיבה (מתיחה סטטית 20 שניות) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת המסטרינגס בישיבה - מתיחה סטטית 30 שניות",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת המסטרינגס בישיבה (מתיחה סטטית 30 שניות) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת המסטרינגס בישיבה - מתיחה דינמית",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת המסטרינגס בישיבה (מתיחה דינמית) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת המסטרינגס בישיבה - מתיחה עם רצועה/גומייה",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת המסטרינגס בישיבה (מתיחה עם רצועה/גומייה) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת המסטרינגס בישיבה - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת המסטרינגס בישיבה (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת ירך קדמית (קוואדריספס) - מתיחה סטטית 20 שניות",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת ירך קדמית (קוואדריספס) (מתיחה סטטית 20 שניות) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת ירך קדמית (קוואדריספס) - מתיחה סטטית 30 שניות",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת ירך קדמית (קוואדריספס) (מתיחה סטטית 30 שניות) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת ירך קדמית (קוואדריספס) - מתיחה דינמית",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת ירך קדמית (קוואדריספס) (מתיחה דינמית) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת ירך קדמית (קוואדריספס) - מתיחה עם רצועה/גומייה",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת ירך קדמית (קוואדריספס) (מתיחה עם רצועה/גומייה) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת ירך קדמית (קוואדריספס) - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת ירך קדמית (קוואדריספס) (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת שוקיים לקיר - מתיחה סטטית 20 שניות",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת שוקיים לקיר (מתיחה סטטית 20 שניות) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת שוקיים לקיר - מתיחה סטטית 30 שניות",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת שוקיים לקיר (מתיחה סטטית 30 שניות) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת שוקיים לקיר - מתיחה דינמית",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת שוקיים לקיר (מתיחה דינמית) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת שוקיים לקיר - מתיחה עם רצועה/גומייה",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת שוקיים לקיר (מתיחה עם רצועה/גומייה) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת שוקיים לקיר - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת שוקיים לקיר (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת מפשעה (Butterfly Stretch) - מתיחה סטטית 20 שניות",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת מפשעה (Butterfly Stretch) (מתיחה סטטית 20 שניות) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת מפשעה (Butterfly Stretch) - מתיחה סטטית 30 שניות",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת מפשעה (Butterfly Stretch) (מתיחה סטטית 30 שניות) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת מפשעה (Butterfly Stretch) - מתיחה דינמית",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת מפשעה (Butterfly Stretch) (מתיחה דינמית) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת מפשעה (Butterfly Stretch) - מתיחה עם רצועה/גומייה",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת מפשעה (Butterfly Stretch) (מתיחה עם רצועה/גומייה) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת מפשעה (Butterfly Stretch) - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת מפשעה (Butterfly Stretch) (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת ישבן (Pigeon Stretch) - מתיחה סטטית 20 שניות",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת ישבן (Pigeon Stretch) (מתיחה סטטית 20 שניות) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת ישבן (Pigeon Stretch) - מתיחה סטטית 30 שניות",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת ישבן (Pigeon Stretch) (מתיחה סטטית 30 שניות) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת ישבן (Pigeon Stretch) - מתיחה דינמית",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת ישבן (Pigeon Stretch) (מתיחה דינמית) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת ישבן (Pigeon Stretch) - מתיחה עם רצועה/גומייה",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת ישבן (Pigeon Stretch) (מתיחה עם רצועה/גומייה) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת ישבן (Pigeon Stretch) - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "רגליים",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת ישבן (Pigeon Stretch) (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לרגליים."
+  },
+  {
+    "name_he": "מתיחת חזה בפתח דלת - מתיחה סטטית 20 שניות",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה בפתח דלת (מתיחה סטטית 20 שניות) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת חזה בפתח דלת - מתיחה סטטית 30 שניות",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה בפתח דלת (מתיחה סטטית 30 שניות) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת חזה בפתח דלת - מתיחה דינמית",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה בפתח דלת (מתיחה דינמית) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת חזה בפתח דלת - מתיחה עם רצועה/גומייה",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה בפתח דלת (מתיחה עם רצועה/גומייה) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת חזה בפתח דלת - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה בפתח דלת (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת חזה בישיבה עם ידיים לאחור - מתיחה סטטית 20 שניות",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה בישיבה עם ידיים לאחור (מתיחה סטטית 20 שניות) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת חזה בישיבה עם ידיים לאחור - מתיחה סטטית 30 שניות",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה בישיבה עם ידיים לאחור (מתיחה סטטית 30 שניות) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת חזה בישיבה עם ידיים לאחור - מתיחה דינמית",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה בישיבה עם ידיים לאחור (מתיחה דינמית) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת חזה בישיבה עם ידיים לאחור - מתיחה עם רצועה/גומייה",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה בישיבה עם ידיים לאחור (מתיחה עם רצועה/גומייה) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת חזה בישיבה עם ידיים לאחור - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה בישיבה עם ידיים לאחור (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת כתפיים חזיתית - מתיחה סטטית 20 שניות",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתפיים חזיתית (מתיחה סטטית 20 שניות) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת כתפיים חזיתית - מתיחה סטטית 30 שניות",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתפיים חזיתית (מתיחה סטטית 30 שניות) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת כתפיים חזיתית - מתיחה דינמית",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתפיים חזיתית (מתיחה דינמית) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת כתפיים חזיתית - מתיחה עם רצועה/גומייה",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתפיים חזיתית (מתיחה עם רצועה/גומייה) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת כתפיים חזיתית - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת כתפיים חזיתית (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת חזה בעמידה מול קיר - מתיחה סטטית 20 שניות",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה בעמידה מול קיר (מתיחה סטטית 20 שניות) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת חזה בעמידה מול קיר - מתיחה סטטית 30 שניות",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה בעמידה מול קיר (מתיחה סטטית 30 שניות) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת חזה בעמידה מול קיר - מתיחה דינמית",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה בעמידה מול קיר (מתיחה דינמית) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת חזה בעמידה מול קיר - מתיחה עם רצועה/גומייה",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה בעמידה מול קיר (מתיחה עם רצועה/גומייה) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת חזה בעמידה מול קיר - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה בעמידה מול קיר (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת חזה עם מגבת/מוט - מתיחה סטטית 20 שניות",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה עם מגבת/מוט (מתיחה סטטית 20 שניות) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת חזה עם מגבת/מוט - מתיחה סטטית 30 שניות",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה עם מגבת/מוט (מתיחה סטטית 30 שניות) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת חזה עם מגבת/מוט - מתיחה דינמית",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה עם מגבת/מוט (מתיחה דינמית) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת חזה עם מגבת/מוט - מתיחה עם רצועה/גומייה",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה עם מגבת/מוט (מתיחה עם רצועה/גומייה) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "מתיחת חזה עם מגבת/מוט - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "חזה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת חזה עם מגבת/מוט (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לחזה."
+  },
+  {
+    "name_he": "נשימות עמוקות והרפיה - מתיחה סטטית 20 שניות",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "נשימות עמוקות והרפיה (מתיחה סטטית 20 שניות) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "נשימות עמוקות והרפיה - מתיחה סטטית 30 שניות",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "נשימות עמוקות והרפיה (מתיחה סטטית 30 שניות) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "נשימות עמוקות והרפיה - מתיחה דינמית",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "נשימות עמוקות והרפיה (מתיחה דינמית) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "נשימות עמוקות והרפיה - מתיחה עם רצועה/גומייה",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "נשימות עמוקות והרפיה (מתיחה עם רצועה/גומייה) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "נשימות עמוקות והרפיה - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "נשימות עמוקות והרפיה (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת קוברה לבטן - מתיחה סטטית 20 שניות",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת קוברה לבטן (מתיחה סטטית 20 שניות) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת קוברה לבטן - מתיחה סטטית 30 שניות",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת קוברה לבטן (מתיחה סטטית 30 שניות) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת קוברה לבטן - מתיחה דינמית",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת קוברה לבטן (מתיחה דינמית) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת קוברה לבטן - מתיחה עם רצועה/גומייה",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת קוברה לבטן (מתיחה עם רצועה/גומייה) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת קוברה לבטן - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת קוברה לבטן (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת גחון-גב (Child's Pose לליבה) - מתיחה סטטית 20 שניות",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת גחון-גב (Child's Pose לליבה) (מתיחה סטטית 20 שניות) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת גחון-גב (Child's Pose לליבה) - מתיחה סטטית 30 שניות",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת גחון-גב (Child's Pose לליבה) (מתיחה סטטית 30 שניות) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת גחון-גב (Child's Pose לליבה) - מתיחה דינמית",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת גחון-גב (Child's Pose לליבה) (מתיחה דינמית) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת גחון-גב (Child's Pose לליבה) - מתיחה עם רצועה/גומייה",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת גחון-גב (Child's Pose לליבה) (מתיחה עם רצועה/גומייה) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת גחון-גב (Child's Pose לליבה) - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת גחון-גב (Child's Pose לליבה) (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת מותניים בשכיבה (Supine Twist) - מתיחה סטטית 20 שניות",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת מותניים בשכיבה (Supine Twist) (מתיחה סטטית 20 שניות) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת מותניים בשכיבה (Supine Twist) - מתיחה סטטית 30 שניות",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת מותניים בשכיבה (Supine Twist) (מתיחה סטטית 30 שניות) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת מותניים בשכיבה (Supine Twist) - מתיחה דינמית",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת מותניים בשכיבה (Supine Twist) (מתיחה דינמית) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת מותניים בשכיבה (Supine Twist) - מתיחה עם רצועה/גומייה",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת מותניים בשכיבה (Supine Twist) (מתיחה עם רצועה/גומייה) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת מותניים בשכיבה (Supine Twist) - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת מותניים בשכיבה (Supine Twist) (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת בטן צידית בעמידה - מתיחה סטטית 20 שניות",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת בטן צידית בעמידה (מתיחה סטטית 20 שניות) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת בטן צידית בעמידה - מתיחה סטטית 30 שניות",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת בטן צידית בעמידה (מתיחה סטטית 30 שניות) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת בטן צידית בעמידה - מתיחה דינמית",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת בטן צידית בעמידה (מתיחה דינמית) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת בטן צידית בעמידה - מתיחה עם רצועה/גומייה",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת בטן צידית בעמידה (מתיחה עם רצועה/גומייה) - מתיחת שחרור לליבה."
+  },
+  {
+    "name_he": "מתיחת בטן צידית בעמידה - מתיחה משולבת נשימה עמוקה",
+    "muscle_group": "ליבה",
+    "difficulty": "קל",
+    "phase": "שחרור",
+    "default_duration_seconds": 30,
+    "description": "מתיחת בטן צידית בעמידה (מתיחה משולבת נשימה עמוקה) - מתיחת שחרור לליבה."
+  }
+]
