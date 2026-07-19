@@ -114,9 +114,12 @@ def seed_database(catalog: list[dict]) -> None:
                 user.set_password(u["password"])
                 session.add(user)
             session.commit()
-            print("נוצרו משתמשות ברירת מחדל - שמרי את הסיסמאות האלו, הן לא נשמרות בשום מקום אחר:")
+            print(
+                "נוצרו משתמשות ברירת מחדל - שמרי את הסיסמאות האלו, הן לא נשמרות בשום מקום אחר:",
+                flush=True,
+            )
             for u in default_users:
-                print(f"  - {u['role']}: שם משתמש '{u['username']}' / סיסמה '{u['password']}'")
+                print(f"  - {u['role']}: שם משתמש '{u['username']}' / סיסמה '{u['password']}'", flush=True)
     finally:
         session.close()
 
