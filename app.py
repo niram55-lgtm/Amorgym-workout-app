@@ -18,7 +18,7 @@ from database import (
     get_session,
     authenticate,
 )
-from workout_logic import generate_workout, find_alternative_exercise
+from workout_logic import generate_workout_options, find_alternative_exercise
 from exercise_catalog_generator import build_catalog
 from seed_db import seed_database
 
@@ -247,6 +247,27 @@ def admin_panel():
 
 
 # ---------------------------------------------------------------------------
+# גלריית אפשרויות אימון (10 הצעות לבחירה)
+# ---------------------------------------------------------------------------
+def _render_workout_options_gallery(options: list[list[dict]]):
+    st.subheader(f"בחרו אחת מ-{len(options)} הצעות האימון")
+    for i, option in enumerate(options):
+        total_seconds = sum(it["duration_seconds"] for it in option)
+        main_items = [it for it in option if it["phase"] == "מרכזי"]
+        main_names = ", ".join(it["name_he"].split(" - ")[0] for it in main_items)
+        with st.container(border=True):
+            c1, c2 = st.columns([5, 1])
+            with c1:
+                st.markdown(f"**אפשרות {i + 1}** · {fmt_duration(total_seconds)} · {len(main_items)} תרגילי כוח")
+                st.caption(main_names)
+            with c2:
+                if st.button("✅ בחר", key=f"select_option_{i}"):
+                    st.session_state["workout"] = option
+                    st.session_state["workout_saved"] = False
+                    st.rerun()
+
+
+# ---------------------------------------------------------------------------
 # פאנל מאמנת
 # ---------------------------------------------------------------------------
 def trainer_panel():
@@ -277,8 +298,10 @@ def trainer_panel():
 
         if generate_clicked:
             try:
-                workout_items = generate_workout(session, program.id, int(total_minutes))
-                st.session_state["workout"] = workout_items
+                st.session_state["workout_options"] = generate_workout_options(
+                    session, program.id, int(total_minutes)
+                )
+                st.session_state.pop("workout", None)
                 st.session_state["workout_minutes"] = int(total_minutes)
                 st.session_state["workout_program_id"] = program.id
                 st.session_state["workout_program_name"] = program.name
@@ -287,9 +310,17 @@ def trainer_panel():
             except ValueError as e:
                 st.error(str(e))
 
-        if "workout" not in st.session_state:
+        if "workout_options" not in st.session_state:
             st.warning("טרם נוצר אימון. בחרו תוכנית ואורך אימון ולחצו על 'ייצר אימון'.")
             return
+
+        if "workout" not in st.session_state:
+            _render_workout_options_gallery(st.session_state["workout_options"])
+            return
+
+        if st.button("🔙 חזרה לרשימת האפשרויות"):
+            st.session_state.pop("workout", None)
+            st.rerun()
 
         workout_items: list[dict] = st.session_state["workout"]
         total_planned = sum(item["duration_seconds"] for item in workout_items)
