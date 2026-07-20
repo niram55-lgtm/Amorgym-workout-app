@@ -59,7 +59,13 @@ st.set_page_config(page_title="ניהול אימוני חדר כושר", page_ic
 st.markdown(
     """
     <style>
-    [data-testid="stAppViewContainer"],
+    /*
+    כוונה מכוונת: לא שמים direction:RTL על stAppViewContainer/stSidebar עצמם -
+    אלו מכולות flex ששולטות במיקום ובאנימציית הקיפול של הסיידבר. סטרימליט מניח
+    LTR באנימציה הזו (translateX שלילי), ו-RTL על המכולה הזו הופך את סדר ה-flex
+    ומקלקל את הקיפול (במיוחד במובייל - נצפה בפועל: פס תוכן שבור בקצה המסך).
+    לכן RTL מוחל רק על אלמנטים שמכילים טקסט בפועל, לא על מכולות המבנה/אנימציה.
+    */
     [data-testid="stMainBlockContainer"],
     [data-testid="stSidebarContent"],
     [data-testid="stMarkdownContainer"],
